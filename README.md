@@ -34,7 +34,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
   - [Gotanda.unity #19 sponsored by 株式会社ミラティブ LT登壇](https://meetup.unity3d.jp/jp/events/1315)
   - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
-  - [Tokyo HoloLens ミートアップ vol.24~HoloLens日本上陸四周年記念！~](https://hololens.connpass.com/event/198999/)
+  - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
   - [【withARハッカソン枠】xR Developers Community Conference](https://www.youtube.com/watch?v=9u22BC3r4x8)
   - [#inochi万博フォーラム 登壇](https://twitter.com/_withAR/status/1334483071614107648?s=20&t=DzrdvUcXXtMZ6rtNogWvXA)
   - [xR Tech Tokyo #10 LT登壇　趣味でJINS MEMEアプリ作ったら番組出演した話 & これからのAR開発者の生き方(仮)](https://vrtokyo.connpass.com/event/86277/)
@@ -164,7 +164,10 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 - [デプロイしたZennの記事をGithubからVSCodeを開き「直接」編集・更新する](https://zenn.dev/iwaken71/articles/zenn-github-vscode)
 - [Microsoft MVPの受賞報告と、受賞のためにしたこと](https://developers.cyberagent.co.jp/blog/archives/32875/)
-- 
+- [「メタバース」に対するXRエンジニアとしての7つの感想](https://note.com/iwaken71/n/ne4adffaf4391)
+- [[AR好き向け] Immersal苦労話LT会から生まれた役立つ技術知見をまとめる](https://note.com/iwaken71/n/n4c09264be509)
+- [JINS MEMEから「Vtuner」が発表されたので、勝手に3年前のバズを懐かしみたいと思う](https://note.com/iwaken71/n/nf75420c307e7)
+
 # My Activity ⚡
 
 ## Social
