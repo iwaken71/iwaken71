@@ -1,4 +1,45 @@
-# Output
+# Kenta Iwasaki @iwaken71
+
+Hi! I'm Kenta Iwasaki. My friends call me Iwaken (イワケン).<br>
+I'm Software Engineer. Microsoft MVP for Windows Development (2021.11~).<br>
+I organized some communities, withAR, IwakenLab., Tokyo HoloLens MeetUp and Babylon.js JAPAN.<br>
+I love Unity, HoloLens, AR, Babylon.js and my community.
+
+![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/168890887-5dd001cf-aa3c-4d2e-9765-2b1dd2ba98b8.png)
+
+# Award
+
+- [Microsoft MVP for Windows Development ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
+- [「OGATORE HIT」AR/VR世界最大のアワード「AUGGIE AWARDS」ファイナリスト選出](https://auggies.awexr.com/gallery/gkLZVwGl/gwLrQBJo?search=a82f2925dc9222cf-3)
+- [CyberAgent全社総会 GOOD START賞ノミネート(2018年)](https://www.facebook.com/KentaIwasakii71/posts/1326832554119991)
+
+# Speak/登壇
+
+- XRKaigi
+  - [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
+  - [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
+- CA BASE NEXT
+  - 2021年[バーチャル撮影システムによるMixed Reality表現](https://www.youtube.com/watch?v=hMo4JAANi8w)
+- BitValley/Youth VALLEY
+  - [バーチャル撮影によるMixed Reality表現の可能性／エンジニアとして会社を楽しむ」](https://prtimes.jp/main/html/rd/p/000000187.000025121.html)
+- BCU30
+  - 2019年[「VTuber収録システムの汎用化と自動化の歩み」](https://bcu30.jp/2019/talk/iwasaki-kenta/)
+- CEDEC
+  - CEDEC2018[Vtuberのビジネスの最新動向と必要とされる技術について](http://cedec.cesa.or.jp/2018/session/detail/s5b274a5c7b87d.html)   
+- ABCSpring
+  - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
+- Other
+  - [福岡XR部 LT登壇](https://fukuoka-xr-club.connpass.com/event/240553/)
+  - [JapanXRFest登壇](https://japanxrfest.com/2022/)
+  - [Gotanda.unity #19 sponsored by 株式会社ミラティブ LT登壇](https://meetup.unity3d.jp/jp/events/1315)
+  - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
+  - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
+  - [Tokyo HoloLens ミートアップ vol.24~HoloLens日本上陸四周年記念！~](https://hololens.connpass.com/event/198999/)
+  - [【withARハッカソン枠】xR Developers Community Conference](https://www.youtube.com/watch?v=9u22BC3r4x8)
+  - [#inochi万博フォーラム 登壇](https://twitter.com/_withAR/status/1334483071614107648?s=20&t=DzrdvUcXXtMZ6rtNogWvXA)
+  - [xR Tech Tokyo #10 LT登壇　趣味でJINS MEMEアプリ作ったら番組出演した話 & これからのAR開発者の生き方(仮)](https://vrtokyo.connpass.com/event/86277/)
+
+# Output/主に執筆記事
 
 ## HoloLens Development
 
@@ -100,6 +141,34 @@
 - [VTuber尊い...なんで？と思いVirtual Beingについてサーベイした話](https://qiita.com/iwaken71/items/73da405cc34e116ceb7a)
 - [あの時のVTuberの口の動きを再現したかった話](https://qiita.com/iwaken71/items/b0cad9ee35b85fc0c9d9)
 - [iPhoneXがなくてもアニ文字したいんだ！ 【Unity×OpenCV×Dlib】](https://qiita.com/iwaken71/items/f18c0092b14e74a1e6aa)
+- [BitValley2019 VTuber展示](https://twitter.com/ca_developers/status/1172702762607398912?s=20)
+
 ## Other
 
 - [デプロイしたZennの記事をGithubからVSCodeを開き「直接」編集・更新する](https://zenn.dev/iwaken71/articles/zenn-github-vscode)
+- [Microsoft MVPの受賞報告と、受賞のためにしたこと](https://developers.cyberagent.co.jp/blog/archives/32875/)
+- 
+# My Activity ⚡
+
+## Social
+
+- [Twitter](https://twitter.com/iwaken71)
+- [LinkedIn](https://www.linkedin.com/in/iwaken71/)
+
+## Tech Blog
+- [Qiita](https://qiita.com/iwaken71)
+- [Zenn](https://zenn.dev/iwaken71)
+- [note](https://note.com/iwaken71)
+
+## Article
+
+- [SpeakerDeck](https://speakerdeck.com/iwaken71)
+- [SpeakerDeck](https://speakerdeck.com/iwaken71_ca)
+- [SlideShare](https://www.slideshare.net/IwasakiKenta/presentations)
+
+## Comunity
+
+- [withAR](https://withar.connpass.com/)
+- [IwakenLab.](https://iwakenlab.jp/)
+- [Tokyo HoloLens MeetUp](https://hololens.connpass.com/)
+- [Babylon.js JAPAN](https://babylonjs.connpass.com/)
