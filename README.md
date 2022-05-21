@@ -7,6 +7,14 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/168890887-5dd001cf-aa3c-4d2e-9765-2b1dd2ba98b8.png)
 
+# Comunity
+
+- [withAR](https://withar.connpass.com/) 主催・運営
+- [IwakenLab.](https://iwakenlab.jp/) 主催・運営
+- [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営
+- [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営
+- [XRおしごとナビ](https://note.com/mizkun/n/n4ac962cf8668) 運営
+
 # Award
 
 - [Microsoft MVP for Windows Development ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
@@ -162,6 +170,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ## Other
 
+- [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介。](https://note.com/iwaken71/n/ne1b58f290120)
 - [デプロイしたZennの記事をGithubからVSCodeを開き「直接」編集・更新する](https://zenn.dev/iwaken71/articles/zenn-github-vscode)
 - [Microsoft MVPの受賞報告と、受賞のためにしたこと](https://developers.cyberagent.co.jp/blog/archives/32875/)
 - [「メタバース」に対するXRエンジニアとしての7つの感想](https://note.com/iwaken71/n/ne4adffaf4391)
@@ -183,13 +192,5 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 ## Article
 
 - [SpeakerDeck](https://speakerdeck.com/iwaken71)
-- [SpeakerDeck](https://speakerdeck.com/iwaken71_ca)
+- [SpeakerDeck会社用](https://speakerdeck.com/iwaken71_ca)
 - [SlideShare](https://www.slideshare.net/IwasakiKenta/presentations)
-
-## Comunity
-
-- [withAR](https://withar.connpass.com/) 主催・運営
-- [IwakenLab.](https://iwakenlab.jp/) 主催・運営
-- [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営
-- [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営
-- [XRおしごとナビ](https://note.com/mizkun/n/n4ac962cf8668) 運営
