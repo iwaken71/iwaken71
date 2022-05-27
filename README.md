@@ -23,6 +23,9 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 # Speak/登壇
 
+- Microsoft Build 2022
+  - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
+  - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
 - XRKaigi
   - [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
   - [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
