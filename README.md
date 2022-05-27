@@ -52,6 +52,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 # Work
 
+- [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介](https://note.com/iwaken71/n/ne1b58f290120)
 - [UnrealEngine Engineer - XRKaigi2021基調講演](https://www.cyberhuman-productions.co.jp/works/xr-kaigi-2021/)
 - [UnrealEngine & XR Engineer - CA BASE NEXT](https://www.cyberhuman-productions.co.jp/works/ca-base-next/)
 - [Unity Enineer - HoloLensプレゼン](https://youtu.be/hMo4JAANi8w?t=856)
