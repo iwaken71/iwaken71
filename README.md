@@ -2,7 +2,7 @@
 
 Hi! I'm Kenta Iwasaki. My friends call me Iwaken (イワケン).<br>
 I'm Software Engineer. Microsoft MVP for Windows Development (2021.11~).<br>
-I organized some communities, withAR, IwakenLab., Tokyo HoloLens MeetUp, Babylon.js JAPAN. and XRおしごとナビ<br>
+I organized some communities, withAR, IwakenLab., Tokyo HoloLens MeetUp and Babylon.js JAPAN.<br>
 I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/168890887-5dd001cf-aa3c-4d2e-9765-2b1dd2ba98b8.png)
@@ -13,7 +13,6 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [IwakenLab.](https://iwakenlab.jp/) 主催・運営
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営
-- [XRおしごとナビ](https://note.com/mizkun/n/n4ac962cf8668) 運営
 
 # Award
 
