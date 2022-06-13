@@ -39,6 +39,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - ABCSpring
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
 - Other
+  - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
   - [福岡XR部 LT登壇](https://fukuoka-xr-club.connpass.com/event/240553/)
   - [JapanXRFest登壇](https://japanxrfest.com/2022/)
   - [Gotanda.unity #19 sponsored by 株式会社ミラティブ LT登壇](https://meetup.unity3d.jp/jp/events/1315)
@@ -173,6 +174,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ## Other
 
+- [3つのXRコミュニティを立ち上げて気づいた3つの知見](https://docs.google.com/presentation/d/1V9d490B2sbRi55vucTGGL1QeU9KzLQkJZOLJ1cqEwmw/edit?usp=sharing)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介。](https://note.com/iwaken71/n/ne1b58f290120)
 - [デプロイしたZennの記事をGithubからVSCodeを開き「直接」編集・更新する](https://zenn.dev/iwaken71/articles/zenn-github-vscode)
 - [Microsoft MVPの受賞報告と、受賞のためにしたこと](https://developers.cyberagent.co.jp/blog/archives/32875/)
