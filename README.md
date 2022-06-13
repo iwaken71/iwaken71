@@ -14,7 +14,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営
 
-# Award
+# Award (3件)
 
 - [Microsoft MVP for Windows Development ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
 - [「OGATORE HIT」AR/VR世界最大のアワード「AUGGIE AWARDS」ファイナリスト選出](https://auggies.awexr.com/gallery/gkLZVwGl/gwLrQBJo?search=a82f2925dc9222cf-3)
@@ -40,6 +40,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
 - Other
   - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
+  - [Babylon.js勉強会 LT登壇「Babylon.jsで3DViewerを作ってみた！」](https://babylonjs.connpass.com/event/246064/)
   - [福岡XR部 LT登壇](https://fukuoka-xr-club.connpass.com/event/240553/)
   - [JapanXRFest登壇](https://japanxrfest.com/2022/)
   - [Gotanda.unity #19 sponsored by 株式会社ミラティブ LT登壇](https://meetup.unity3d.jp/jp/events/1315)
@@ -138,7 +139,9 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [[UE4] Unity出身でもわかる、BluePrintでREST APIを簡単にたたく方法](https://qiita.com/iwaken71/items/a20c095f2c930cf2797c)
 
 ## Babylon.js
-
+- [Babylon.jsのWebXR向けHand Tracking実装が動かないときに見るべきブラウザ設定](https://zenn.dev/iwaken71/articles/babylonjs-webxr-handtracking)
+- [Babylon.jsでWebXR実装し、QuestとHoloLensで動かす](https://zenn.dev/iwaken71/articles/babylonjs-webxr-start)
+- [Babylon.jsで3DViewerを作ってみた！！！](https://speakerdeck.com/iwaken71/babylon-dot-jsde3dviewerwozuo-tutemita)
 - [Babylon.jsで背景透過を行う方法。一行付け加えるだけ](https://zenn.dev/iwaken71/articles/babylonjs-background-alpha)
 - [Babylon.jsでCameraをシームレスに指定の位置に移動させる](https://zenn.dev/iwaken71/articles/babylonjs-camera-move)
 - [Babylon.jsのPBRMaterial紹介と簡易版Materialからの変換【ドキュメント和訳+α】](https://zenn.dev/iwaken71/articles/babylonjs-mastering-pbr1)
