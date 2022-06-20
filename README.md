@@ -74,10 +74,10 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 2022年
 - [ARCore Geospatial道場](https://withar.connpass.com/event/249282/)
 - [BBQスキャン会 (イワケンラボ交流会)](https://iwakenlab.connpass.com/event/247219/)
-- [Babylon.js 勉強会 vol.1 ~Babylon.js 日本コミュニティ立ち上げ記念！~](https://babylonjs.connpass.com/event/246064/)
+- [Babylon.js 勉強会 vol.1 Babylon.js 日本コミュニティ立ち上げ記念！](https://babylonjs.connpass.com/event/246064/)
 - [3/27イワケンラボ 2021年度活動振り返りLT会+表彰式【XR】](https://iwakenlab.connpass.com/event/241605/)
 - [地元withARハッカソン](https://withar.connpass.com/event/235102/)
-- [Tokyo HoloLens ミートアップ vol.29~HoloLens日本上陸五周年記念！~](https://hololens.connpass.com/event/233613/)
+- [Tokyo HoloLens ミートアップ vol.29 HoloLens日本上陸五周年記念！](https://hololens.connpass.com/event/233613/)
 
 2021年以前 (後ほど更新)
 
