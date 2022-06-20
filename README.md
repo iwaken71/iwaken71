@@ -69,6 +69,18 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [Unity Engineer - 仮想万博『TIMLESS PAVILION ～ゾウの時間、ネズミの時間、ヒトの時間～』Team Tetris](https://www.youtube.com/watch?v=dB2YU6NeoZc)
 - [Unity Engineer - 【アズマリム】人類みなセンパイ！【MV】](https://www.youtube.com/watch?v=XtlDHnWgGeM)
 
+# Event(開催イベント)
+
+2022年
+- [ARCore Geospatial道場](https://withar.connpass.com/event/249282/)
+- [BBQスキャン会 (イワケンラボ交流会)](https://iwakenlab.connpass.com/event/247219/)
+- [Babylon.js 勉強会 vol.1 ~Babylon.js 日本コミュニティ立ち上げ記念！~](https://babylonjs.connpass.com/event/246064/)
+- [3/27イワケンラボ 2021年度活動振り返りLT会+表彰式【XR】](https://iwakenlab.connpass.com/event/241605/)
+- [地元withARハッカソン](https://withar.connpass.com/event/235102/)
+- [Tokyo HoloLens ミートアップ vol.29~HoloLens日本上陸五周年記念！~](https://hololens.connpass.com/event/233613/)
+
+2021年以前 (後ほど更新)
+
 # Output/主に執筆記事
 
 ## HoloLens Development
@@ -91,6 +103,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ## Unity
 
+- [ARCore Geospatial APIの緯度経度の情報を持つAREarthManagerについて調べてみた](https://qiita.com/iwaken71/items/c6b403b39929dac5bd4b)
 - [【HoloLens2×Unity】UPMでMRTKとMixed Reality OpenXRをインストールする](https://zenn.dev/iwaken71/articles/setup-holo-upm)
 - [Unity×HoloLens2×MRTK×QRCodeをとりあえず動かしたいとき](https://zenn.dev/iwaken71/articles/hololens-unity-qr)
 - [【HoloLens2】UnityのHoloLens2アプリのUSBビルドに失敗したときの対処法](https://zenn.dev/iwaken71/articles/61315cabf0607d)
@@ -177,6 +190,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ## Other
 
+- [記事を書くまで帰れまテン。ARCore Geospatial道場主催。記事一挙公開](https://note.com/iwaken71/n/n6147f24710f5)
 - [3つのXRコミュニティを立ち上げて気づいた3つの知見](https://docs.google.com/presentation/d/1V9d490B2sbRi55vucTGGL1QeU9KzLQkJZOLJ1cqEwmw/edit?usp=sharing)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介。](https://note.com/iwaken71/n/ne1b58f290120)
 - [デプロイしたZennの記事をGithubからVSCodeを開き「直接」編集・更新する](https://zenn.dev/iwaken71/articles/zenn-github-vscode)
