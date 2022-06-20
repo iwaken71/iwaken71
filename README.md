@@ -69,7 +69,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [Unity Engineer - 仮想万博『TIMLESS PAVILION ～ゾウの時間、ネズミの時間、ヒトの時間～』Team Tetris](https://www.youtube.com/watch?v=dB2YU6NeoZc)
 - [Unity Engineer - 【アズマリム】人類みなセンパイ！【MV】](https://www.youtube.com/watch?v=XtlDHnWgGeM)
 
-# Event(開催イベント)
+# Event/開催
 
 2022年
 - [ARCore Geospatial道場](https://withar.connpass.com/event/249282/)
