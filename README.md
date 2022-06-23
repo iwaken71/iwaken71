@@ -39,6 +39,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - ABCSpring
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
 - Other
+  - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
   - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
   - [Babylon.js勉強会 LT登壇「Babylon.jsで3DViewerを作ってみた！」](https://babylonjs.connpass.com/event/246064/)
   - [福岡XR部 LT登壇](https://fukuoka-xr-club.connpass.com/event/240553/)
@@ -72,6 +73,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 # Event/開催
 
 2022年
+- [Tokyo HoloLens ミートアップ vol.30](https://hololens.connpass.com/event/249363/)
 - [ARCore Geospatial道場](https://withar.connpass.com/event/249282/)
 - [BBQスキャン会 (イワケンラボ交流会)](https://iwakenlab.connpass.com/event/247219/)
 - [Babylon.js 勉強会 vol.1 Babylon.js 日本コミュニティ立ち上げ記念！](https://babylonjs.connpass.com/event/246064/)
@@ -85,6 +87,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ## HoloLens Development
 
+- [HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://speakerdeck.com/iwaken71/hololens2tometaquest2dotiramodong-kuwebxrapuriwobabylon-dot-jsdezuo-ru)
 - [Unreal Engine5.0のリリース直後にHololens 2ビルドできるか試してみた](https://zenn.dev/iwaken71/articles/ue5-hololens-first)
 - [【HoloLens2×UE4.27】Microsoft OpenXRによるHoloLensビルドを試してみた](https://zenn.dev/iwaken71/articles/hololens-ue4_27)
 - [【HoloLens2×Unity】UPMでMRTKとMixed Reality OpenXRをインストールする](https://zenn.dev/iwaken71/articles/setup-holo-upm)
@@ -152,6 +155,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [[UE4] Unity出身でもわかる、BluePrintでREST APIを簡単にたたく方法](https://qiita.com/iwaken71/items/a20c095f2c930cf2797c)
 
 ## Babylon.js
+- [HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://speakerdeck.com/iwaken71/hololens2tometaquest2dotiramodong-kuwebxrapuriwobabylon-dot-jsdezuo-ru)
 - [Babylon.jsのWebXR向けHand Tracking実装が動かないときに見るべきブラウザ設定](https://zenn.dev/iwaken71/articles/babylonjs-webxr-handtracking)
 - [Babylon.jsでWebXR実装し、QuestとHoloLensで動かす](https://zenn.dev/iwaken71/articles/babylonjs-webxr-start)
 - [Babylon.jsで3DViewerを作ってみた！！！](https://speakerdeck.com/iwaken71/babylon-dot-jsde3dviewerwozuo-tutemita)
