@@ -54,6 +54,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 # Work
 
+- [Director 4人プレイのVRゲームワールド「hands up」](https://twitter.com/VRC_Sakk/status/1545890539454640129?s=20&t=FlWKYS30GhTVuiQ6_aHZ9w)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介](https://note.com/iwaken71/n/ne1b58f290120)
 - [UnrealEngine Engineer - XRKaigi2021基調講演](https://www.cyberhuman-productions.co.jp/works/xr-kaigi-2021/)
 - [UnrealEngine & XR Engineer - CA BASE NEXT](https://www.cyberhuman-productions.co.jp/works/ca-base-next/)
@@ -73,6 +74,8 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 # Event/開催
 
 2022年
+- [Babylon.jsゆるほめLT会](https://babylonjs.connpass.com/event/250238/)
+- [第1回「〇〇はいいぞ選手権」](https://iwakenlab.connpass.com/event/253855/)
 - [Tokyo HoloLens ミートアップ vol.30](https://hololens.connpass.com/event/249363/)
 - [ARCore Geospatial道場](https://withar.connpass.com/event/249282/)
 - [BBQスキャン会 (イワケンラボ交流会)](https://iwakenlab.connpass.com/event/247219/)
