@@ -39,6 +39,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - ABCSpring
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
 - Other
+  - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
   - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
   - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
   - [Babylon.js勉強会 LT登壇「Babylon.jsで3DViewerを作ってみた！」](https://babylonjs.connpass.com/event/246064/)
