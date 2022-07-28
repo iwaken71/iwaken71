@@ -29,7 +29,8 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
   - [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
   - [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
 - CA BASE NEXT
-  - 2021年[バーチャル撮影システムによるMixed Reality表現](https://www.youtube.com/watch?v=hMo4JAANi8w)
+  - 2022年 基調講演 [未来の当たり前をつくる3DCGエンジニア・クリエイター](https://ca-base-next.cyberagent.co.jp/2022/sessions/metaspace/) 
+  - 2021年 [バーチャル撮影システムによるMixed Reality表現](https://www.youtube.com/watch?v=hMo4JAANi8w)
 - BitValley/Youth VALLEY
   - [バーチャル撮影によるMixed Reality表現の可能性／エンジニアとして会社を楽しむ」](https://prtimes.jp/main/html/rd/p/000000187.000025121.html)
 - BCU30
@@ -55,6 +56,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 # Work
 
+- [Engineer HoloLensプレゼン CA BASE NEXT](https://note.com/iwaken71/n/n971cacde2d49)
 - [Director 4人プレイのVRゲームワールド「hands up」](https://twitter.com/VRC_Sakk/status/1545890539454640129?s=20&t=FlWKYS30GhTVuiQ6_aHZ9w)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介](https://note.com/iwaken71/n/ne1b58f290120)
 - [UnrealEngine Engineer - XRKaigi2021基調講演](https://www.cyberhuman-productions.co.jp/works/xr-kaigi-2021/)
