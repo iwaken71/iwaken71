@@ -7,7 +7,9 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/168890887-5dd001cf-aa3c-4d2e-9765-2b1dd2ba98b8.png)
 
-## Tech Blog
+# Media
+
+- [Twitter](https://twitter.com/iwaken71)
 - [Qiita](https://qiita.com/iwaken71)
 - [Zenn](https://zenn.dev/iwaken71)
 - [note](https://note.com/iwaken71)
