@@ -7,6 +7,11 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/168890887-5dd001cf-aa3c-4d2e-9765-2b1dd2ba98b8.png)
 
+## Tech Blog
+- [Qiita](https://qiita.com/iwaken71)
+- [Zenn](https://zenn.dev/iwaken71)
+- [note](https://note.com/iwaken71)
+
 # Comunity
 
 - [withAR](https://withar.connpass.com/) 主催・運営
@@ -77,6 +82,8 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 # Event/開催
 
 2022年
+- [VPS開発座談会](https://iwakenlab.connpass.com/event/256337/)
+- [VR開発座談会](https://iwakenlab.connpass.com/event/255648/)
 - [Babylon.jsゆるほめLT会](https://babylonjs.connpass.com/event/250238/)
 - [第1回「〇〇はいいぞ選手権」](https://iwakenlab.connpass.com/event/253855/)
 - [Tokyo HoloLens ミートアップ vol.30](https://hololens.connpass.com/event/249363/)
