@@ -63,6 +63,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 # Work
 
+- [執筆 Babylon.js レシピ集 Vol.1 - 技術書典13](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm)
 - [Engineer HoloLensプレゼン CA BASE NEXT](https://note.com/iwaken71/n/n971cacde2d49)
 - [Director 4人プレイのVRゲームワールド「hands up」](https://twitter.com/VRC_Sakk/status/1545890539454640129?s=20&t=FlWKYS30GhTVuiQ6_aHZ9w)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介](https://note.com/iwaken71/n/ne1b58f290120)
@@ -170,6 +171,8 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 - [[UE4] Unity出身でもわかる、BluePrintでREST APIを簡単にたたく方法](https://qiita.com/iwaken71/items/a20c095f2c930cf2797c)
 
 ## Babylon.js
+
+- [技術書典: Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm)
 - [HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://speakerdeck.com/iwaken71/hololens2tometaquest2dotiramodong-kuwebxrapuriwobabylon-dot-jsdezuo-ru)
 - [Babylon.jsのWebXR向けHand Tracking実装が動かないときに見るべきブラウザ設定](https://zenn.dev/iwaken71/articles/babylonjs-webxr-handtracking)
 - [Babylon.jsでWebXR実装し、QuestとHoloLensで動かす](https://zenn.dev/iwaken71/articles/babylonjs-webxr-start)
