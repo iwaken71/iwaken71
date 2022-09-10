@@ -63,6 +63,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 # Work
 
+- [執筆 IwakenLab TechBook #1 XR好きの役立つTips集 - 技術書典13](https://techbookfest.org/product/8Z7Y8Bdfh5jMtExcMFT1kS?productVariantID=d3Hdh902NFZgzCwSXJWzmn)
 - [執筆 Babylon.js レシピ集 Vol.1 - 技術書典13](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm)
 - [Engineer HoloLensプレゼン CA BASE NEXT](https://note.com/iwaken71/n/n971cacde2d49)
 - [Director 4人プレイのVRゲームワールド「hands up」](https://twitter.com/VRC_Sakk/status/1545890539454640129?s=20&t=FlWKYS30GhTVuiQ6_aHZ9w)
