@@ -213,6 +213,7 @@ I love Unity, HoloLens, AR, Babylon.js and my community.
 
 ## Other
 
+- [Microsoft MVP Award Blogにイワケンラボの活動が紹介されました](https://note.com/iwaken71/n/nc8c6abc8b5a4)
 - [記事を書くまで帰れまテン。ARCore Geospatial道場主催。記事一挙公開](https://note.com/iwaken71/n/n6147f24710f5)
 - [3つのXRコミュニティを立ち上げて気づいた3つの知見](https://docs.google.com/presentation/d/1V9d490B2sbRi55vucTGGL1QeU9KzLQkJZOLJ1cqEwmw/edit?usp=sharing)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介。](https://note.com/iwaken71/n/ne1b58f290120)
