@@ -5,7 +5,7 @@ I'm Software Engineer. Microsoft MVP for Windows Development (2021.11~).<br>
 I organized some communities, withAR, IwakenLab., Tokyo HoloLens MeetUp and Babylon.js JAPAN.<br>
 I love Unity, HoloLens, AR, Babylon.js and my community.
 
-![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/168890887-5dd001cf-aa3c-4d2e-9765-2b1dd2ba98b8.png)
+![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/191398747-7cd1faa0-0d70-4d25-af6c-d2bbeb4e6cf3.png)
 
 # Media
 
