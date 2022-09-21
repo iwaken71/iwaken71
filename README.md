@@ -1,9 +1,19 @@
-# Kenta Iwasaki @iwaken71
+# イワケン/iwaken71/岩﨑謙汰
 
-Hi! I'm Kenta Iwasaki. My friends call me Iwaken (イワケン).<br>
-I'm Software Engineer. Microsoft MVP for Windows Development (2021.11~).<br>
-I organized some communities, withAR, IwakenLab., Tokyo HoloLens MeetUp and Babylon.js JAPAN.<br>
-I love Unity, HoloLens, AR, Babylon.js and my community.
+- コミュニケータエンジニア / XRエンジニア 
+- 東京工業大学大学院、数理・計算科学系卒業 (~2018.3)
+- 株式会社サイバーエージェント入社 (2018.04~現在)
+- 好きな技術領域
+  - Unity (7年)
+  - AR (5年)  
+  - Unreal Engine (2年)
+  - VTuber (2年)
+  - Virtual Productions (2年)
+- 4つのコミュニティリーダー
+  - withAR
+  - Iwaken Lab.
+  - HoloLens Meetup
+  - Babylon.js勉強会  
 
 ![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/191398747-7cd1faa0-0d70-4d25-af6c-d2bbeb4e6cf3.png)
 
