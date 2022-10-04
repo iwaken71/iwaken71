@@ -223,6 +223,12 @@
 - [iPhoneXがなくてもアニ文字したいんだ！ 【Unity×OpenCV×Dlib】](https://qiita.com/iwaken71/items/f18c0092b14e74a1e6aa)
 - [BitValley2019 VTuber展示](https://twitter.com/ca_developers/status/1172702762607398912?s=20)
 
+## Graph Sampling (修士時代の専門)
+
+- [IEEE BigComp.2018に論文採択 | Kenta Iwasaki, Kazuyuki Shudo:Estimating the Clustering Coefficient of a Social Network by a Non-backtracking Random Walk](https://www.researchgate.net/publication/325420175_Estimating_the_Clustering_Coefficient_of_a_Social_Network_by_a_Non-backtracking_Random_Walk)
+- [IEEE SocialCom 2018 に論文採択｜Kenta Iwasaki, Kazuyuki Shudo:"Comparing Graph Sampling Methods Based on the Number of Queries"](https://ieeexplore.ieee.org/abstract/document/8672368)
+- [IEEE SocialCom 2018 に論文採択｜Kazuki Nakajima, Kenta Iwasaki, Toshiki Matsumura, Kazuyuki Shudo:"Estimating Top-k Betweeness Centrality Nodes in Online Social Networks"](https://ieeexplore.ieee.org/abstract/document/8672388)
+
 ## Other
 
 - [Microsoft MVP Award Blogにイワケンラボの活動が紹介されました](https://note.com/iwaken71/n/nc8c6abc8b5a4)
