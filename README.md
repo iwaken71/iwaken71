@@ -199,6 +199,7 @@
 
 ## WebXR
 
+- [8thWallのLightship VPS for Webを静岡で試してみた](https://zenn.dev/iwaken71/articles/8thwall-lightship-vps-intro)
 - [Unreal Engine4の標準機能でメッシュのポリゴン数を減らして3Dデータをエクスポート](https://zenn.dev/iwaken71/articles/unreal-polygon-reduction)
 - [glTF ExporterでUnreal EngineからglTFデータ・glbデータをエクスポートする方法](https://zenn.dev/iwaken71/articles/unreal-gltf-exporter)
 - [Maya Sketchfab Exporterを試してみた](https://qiita.com/iwaken71/items/d84eb8dea351fcb7ddd8)
