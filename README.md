@@ -1,4 +1,4 @@
-# イワケン/iwaken71/岩﨑謙汰
+# イワケン/岩﨑謙汰/iwaken71
 
 - コミュニケータエンジニア / XRエンジニア 
 - 東京工業大学大学院、数理・計算科学系卒業 (~2018.3)
@@ -37,6 +37,11 @@
 - [「OGATORE HIT」AR/VR世界最大のアワード「AUGGIE AWARDS」ファイナリスト選出](https://auggies.awexr.com/gallery/gkLZVwGl/gwLrQBJo?search=a82f2925dc9222cf-3)
 - [CyberAgent全社総会 GOOD START賞ノミネート(2018年)](https://www.facebook.com/KentaIwasakii71/posts/1326832554119991)
 
+# Book (本の執筆)
+
+- [IwakenLab TechBook #1 XR好きの役立つTips集](https://techbookfest.org/product/8Z7Y8Bdfh5jMtExcMFT1kS?productVariantID=d3Hdh902NFZgzCwSXJWzmn)
+- [Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm?productVariantID=pNeWa5JkuwS6Lj9148Sq9S)
+
 # Speak/登壇
 
 - Microsoft Build 2022
@@ -57,6 +62,7 @@
 - ABCSpring
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
 - Other
+  - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
   - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
   - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
   - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
@@ -97,6 +103,7 @@
 # Event/開催
 
 2022年
+- [【初学者向け】Babylon.jsの開発環境を晒す会](https://babylonjs.connpass.com/event/260891/)
 - [VPS開発座談会](https://iwakenlab.connpass.com/event/256337/)
 - [VR開発座談会](https://iwakenlab.connpass.com/event/255648/)
 - [Babylon.jsゆるほめLT会](https://babylonjs.connpass.com/event/250238/)
@@ -184,6 +191,7 @@
 
 ## Babylon.js
 
+- [Babylon.jsで背景動画と3Dモデルを合成してスクリーンショットを取る](https://zenn.dev/iwaken71/articles/babylonjs-screenshot)
 - [技術書典: Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm)
 - [HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://speakerdeck.com/iwaken71/hololens2tometaquest2dotiramodong-kuwebxrapuriwobabylon-dot-jsdezuo-ru)
 - [Babylon.jsのWebXR向けHand Tracking実装が動かないときに見るべきブラウザ設定](https://zenn.dev/iwaken71/articles/babylonjs-webxr-handtracking)
