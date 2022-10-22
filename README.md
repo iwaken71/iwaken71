@@ -61,6 +61,8 @@
   - CEDEC2018[Vtuberのビジネスの最新動向と必要とされる技術について](http://cedec.cesa.or.jp/2018/session/detail/s5b274a5c7b87d.html)   
 - ABCSpring
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
+- 技育祭
+  - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
 - Other
   - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
   - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
@@ -103,6 +105,7 @@
 # Event/開催
 
 2022年
+- [NeRFやってみた発表会 10/22](https://iwakenlab.connpass.com/event/262444/)
 - [【初学者向け】Babylon.jsの開発環境を晒す会](https://babylonjs.connpass.com/event/260891/)
 - [VPS開発座談会](https://iwakenlab.connpass.com/event/256337/)
 - [VR開発座談会](https://iwakenlab.connpass.com/event/255648/)
