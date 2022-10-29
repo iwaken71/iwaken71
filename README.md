@@ -64,6 +64,7 @@
 - 技育祭
   - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
 - Other
+  - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
   - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
   - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
   - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
