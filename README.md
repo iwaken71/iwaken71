@@ -106,6 +106,8 @@
 # Event/開催
 
 2022年
+- [XR好き学生近況報告集会 11/7 ゲスト稲見 昌彦](https://iwakenlab.connpass.com/event/262764/)
+- [#1 松迫先生【仕事で役立つExtenject講座】~教えたがり先生シリーズ~](https://iwakenlab.connpass.com/event/264179/)
 - [NeRFやってみた発表会 10/22](https://iwakenlab.connpass.com/event/262444/)
 - [【初学者向け】Babylon.jsの開発環境を晒す会](https://babylonjs.connpass.com/event/260891/)
 - [VPS開発座談会](https://iwakenlab.connpass.com/event/256337/)
