@@ -33,6 +33,7 @@
 
 # Award (3件)
 
+- [未来都市withARハッカソン 3位](https://twitter.com/iwaken71/status/1604802894381060096?s=20&t=ZIyNpVEKVtc0D2ShjhDPag)
 - [Microsoft MVP for Windows Development ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
 - [「OGATORE HIT」AR/VR世界最大のアワード「AUGGIE AWARDS」ファイナリスト選出](https://auggies.awexr.com/gallery/gkLZVwGl/gwLrQBJo?search=a82f2925dc9222cf-3)
 - [CyberAgent全社総会 GOOD START賞ノミネート(2018年)](https://www.facebook.com/KentaIwasakii71/posts/1326832554119991)
@@ -48,6 +49,7 @@
   - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
   - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
 - XRKaigi
+  - [XRKaigi2022 WebXR Tech Tokyo + Babylon.js 勉強会](https://www.xrkaigi.com/seminars/49)
   - [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
   - [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
 - CA BASE NEXT
@@ -106,6 +108,7 @@
 # Event/開催
 
 2022年
+- [未来都市withARハッカソン](https://withar.connpass.com/event/264132/)
 - [XR好き学生近況報告集会 11/7 ゲスト稲見 昌彦](https://iwakenlab.connpass.com/event/262764/)
 - [#1 松迫先生【仕事で役立つExtenject講座】~教えたがり先生シリーズ~](https://iwakenlab.connpass.com/event/264179/)
 - [NeRFやってみた発表会 10/22](https://iwakenlab.connpass.com/event/262444/)
@@ -197,6 +200,7 @@
 
 ## Babylon.js
 
+- [Babylon.jsの英語ドキュメント「Post Process Library」を読み、かっこいい表現を1,2行で実現する](https://qiita.com/iwaken71/items/00c039b9c01e38d1a1ad)
 - [Babylon.jsで背景動画と3Dモデルを合成してスクリーンショットを取る](https://zenn.dev/iwaken71/articles/babylonjs-screenshot)
 - [技術書典: Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm)
 - [HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://speakerdeck.com/iwaken71/hololens2tometaquest2dotiramodong-kuwebxrapuriwobabylon-dot-jsdezuo-ru)
