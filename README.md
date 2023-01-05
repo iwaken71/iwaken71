@@ -194,13 +194,13 @@
 - [Unreal Engine5.0のリリース直後にHololens 2ビルドできるか試してみた](https://zenn.dev/iwaken71/articles/ue5-hololens-first)
 - [【HoloLens2×UE4.27】Microsoft OpenXRによるHoloLensビルドを試してみた](https://zenn.dev/iwaken71/articles/hololens-ue4_27)
 - [glTF ExporterでUnreal EngineからglTFデータ・glbデータをエクスポートする方法](https://zenn.dev/iwaken71/articles/unreal-gltf-exporter)
+- [Unreal Engine4の標準機能でメッシュのポリゴン数を減らして3Dデータをエクスポート](https://zenn.dev/iwaken71/articles/unreal-polygon-reduction)
 
 2021年以前
 - [【HoloLens2】UE4.26にUX Tools for Unrealをインストールする](https://zenn.dev/iwaken71/articles/hololens2-uxtools)
 - [【HoloLens2】UE4.26でQRCode Trackingの座標軸に合わせてActorを出現させる](https://zenn.dev/iwaken71/articles/hololens2-qrcode-coordinate)
 - [【HoloLens2】UE4.26でImageTracking(QRCode)やってみた](https://zenn.dev/iwaken71/articles/25e1b57e2f5b3420dd5c)
 - [UE4から初めてのHoloLensビルドに失敗したときに見る記事](https://zenn.dev/iwaken71/articles/e1c2d5b3cd94df)
-- [Unreal Engine4の標準機能でメッシュのポリゴン数を減らして3Dデータをエクスポート](https://zenn.dev/iwaken71/articles/unreal-polygon-reduction)
 - [【Meta Humans×Live Link】デジタルヒューマンをフェイシャルキャプチャで動かす](https://zenn.dev/iwaken71/articles/metahumans-livelink)
 - [UnrealEngineのMetaHumansサンプルを最速で動かす方法](https://zenn.dev/iwaken71/articles/metahumans-unrealengine-sample)
 - [Unity歴5年の僕がUnreal Engineをこれから学びたい人向けの記事を書く](https://zenn.dev/iwaken71/articles/fddbed402d0658)
@@ -213,6 +213,7 @@
 
 ## Babylon.js
 
+2022年
 - [Babylon.jsの英語ドキュメント「Post Process Library」を読み、かっこいい表現を1,2行で実現する](https://qiita.com/iwaken71/items/00c039b9c01e38d1a1ad)
 - [Babylon.jsで背景動画と3Dモデルを合成してスクリーンショットを取る](https://zenn.dev/iwaken71/articles/babylonjs-screenshot)
 - [技術書典: Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm)
@@ -230,16 +231,20 @@
 
 ## WebXR
 
+2022年
 - [8thWallのLightship VPS for Webを静岡で試してみた](https://zenn.dev/iwaken71/articles/8thwall-lightship-vps-intro)
 - [Unreal Engine4の標準機能でメッシュのポリゴン数を減らして3Dデータをエクスポート](https://zenn.dev/iwaken71/articles/unreal-polygon-reduction)
 - [glTF ExporterでUnreal EngineからglTFデータ・glbデータをエクスポートする方法](https://zenn.dev/iwaken71/articles/unreal-gltf-exporter)
 - [Maya Sketchfab Exporterを試してみた](https://qiita.com/iwaken71/items/d84eb8dea351fcb7ddd8)
 - [Sketchfabにアップロードする3Dモデル要件を日本語訳する](https://qiita.com/iwaken71/items/9690825dcdb40315a633)
+
+2021年以前
 - [8thWallのWebAR開発で独自ドメイン(Self-Hosting) のWebARをリリースするために参考にしたページ達](https://qiita.com/iwaken71/items/67bbbb3fc1e004d1f5f3)
 - [8thWallガイドラインを日本語訳&要約して、WebAR向けの3Dファイルの作り方の基準を知る](https://qiita.com/iwaken71/items/a735847da783a8367bbd)
 
 ## Nreal
 
+2021年以前
 - [nreal developerページをざっと読んでみた (RGB Camera編)](https://qiita.com/iwaken71/items/c73b252c7284b7d36a45)
 - [nreal developerページをざっと読んでみた (Controller編)](https://qiita.com/iwaken71/items/dd254f200b3ff9d3c3bc)
 - [nreal developerページをざっと読んでみた (Image Tracking編)](https://qiita.com/iwaken71/items/d7cc1edb84713c9c4a24)
@@ -249,6 +254,7 @@
 
 ## VTuber
 
+2021年以前
 - [VTuber尊い...なんで？と思いVirtual Beingについてサーベイした話](https://qiita.com/iwaken71/items/73da405cc34e116ceb7a)
 - [あの時のVTuberの口の動きを再現したかった話](https://qiita.com/iwaken71/items/b0cad9ee35b85fc0c9d9)
 - [iPhoneXがなくてもアニ文字したいんだ！ 【Unity×OpenCV×Dlib】](https://qiita.com/iwaken71/items/f18c0092b14e74a1e6aa)
@@ -262,11 +268,14 @@
 
 ## Other
 
+2022年
 - [Microsoft MVP Award Blogにイワケンラボの活動が紹介されました](https://note.com/iwaken71/n/nc8c6abc8b5a4)
 - [記事を書くまで帰れまテン。ARCore Geospatial道場主催。記事一挙公開](https://note.com/iwaken71/n/n6147f24710f5)
 - [3つのXRコミュニティを立ち上げて気づいた3つの知見](https://docs.google.com/presentation/d/1V9d490B2sbRi55vucTGGL1QeU9KzLQkJZOLJ1cqEwmw/edit?usp=sharing)
 - [ARISE#3 - Re:ARISE「XRの現在地と未来」で行うXR展示ご紹介。](https://note.com/iwaken71/n/ne1b58f290120)
 - [デプロイしたZennの記事をGithubからVSCodeを開き「直接」編集・更新する](https://zenn.dev/iwaken71/articles/zenn-github-vscode)
+
+2021年以前
 - [Microsoft MVPの受賞報告と、受賞のためにしたこと](https://developers.cyberagent.co.jp/blog/archives/32875/)
 - [「メタバース」に対するXRエンジニアとしての7つの感想](https://note.com/iwaken71/n/ne4adffaf4391)
 - [[AR好き向け] Immersal苦労話LT会から生まれた役立つ技術知見をまとめる](https://note.com/iwaken71/n/n4c09264be509)
