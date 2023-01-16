@@ -51,6 +51,7 @@
 
 # Speak/登壇
 
+- [HAL東京・HAL大阪学生向け授業, 2023/01/16](https://twitter.com/iwaken71/status/1614919049565331457?s=20&t=MW-5yF3XEHY1dxNlL9_HkA)
 - Microsoft Build 2022
   - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
   - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
