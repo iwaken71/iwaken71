@@ -73,6 +73,7 @@
 - 技育祭
   - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
 - Other
+  - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
   - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
   - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
   - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
@@ -90,6 +91,9 @@
   - [xR Tech Tokyo #10 LT登壇　趣味でJINS MEMEアプリ作ったら番組出演した話 & これからのAR開発者の生き方(仮)](https://vrtokyo.connpass.com/event/86277/)
 
 # Work
+2023年
+- [【XR展示】LODGE XR Talk　Meta Quest Proによるみんなでライブ視聴体験](https://lodge-xr-talk-01.peatix.com/view)
+
 
 2022年
 - [Meta Quest Proによる未来のイベント視聴体験](https://twitter.com/iwaken71/status/1615546872667738112?s=20&t=A6BgErPe8mkaJ82VGsld-Q)
