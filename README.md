@@ -23,6 +23,7 @@
 - [Qiita](https://qiita.com/iwaken71)
 - [Zenn](https://zenn.dev/iwaken71)
 - [note](https://note.com/iwaken71)
+- [Youtube](https://www.youtube.com/@iwakenlab)
 
 # Comunity
 
@@ -48,6 +49,7 @@
 
 - [IwakenLab TechBook #1 XR好きの役立つTips集](https://techbookfest.org/product/8Z7Y8Bdfh5jMtExcMFT1kS?productVariantID=d3Hdh902NFZgzCwSXJWzmn)
 - [Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm?productVariantID=pNeWa5JkuwS6Lj9148Sq9S)
+- [Babylon.js レシピ集 インプレスNextPublishing](https://nextpublishing.jp/book/16386.html)
 
 # Speak/登壇
 
