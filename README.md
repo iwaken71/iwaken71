@@ -124,6 +124,7 @@
 
 # Event/開催
 2023年
+- [Babylon.js 勉強会 vol.2 ~Babylon.js v6 リリース記念~](https://babylonjs.connpass.com/event/276698/)
 - [IwakenLabオールスターLT祭 ～XR好き40名大集結～](https://iwakenlab.connpass.com/event/270558/)
 2022年
 - [未来都市withARハッカソン](https://withar.connpass.com/event/264132/)
