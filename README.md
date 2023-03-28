@@ -123,7 +123,8 @@
 - [Unity Engineer - 【アズマリム】人類みなセンパイ！【MV】](https://www.youtube.com/watch?v=XtlDHnWgGeM)
 
 # Event/開催
-
+2023年
+- [IwakenLabオールスターLT祭 ～XR好き40名大集結～](https://iwakenlab.connpass.com/event/270558/)
 2022年
 - [未来都市withARハッカソン](https://withar.connpass.com/event/264132/)
 - [XR好き学生近況報告集会 11/7 ゲスト稲見 昌彦](https://iwakenlab.connpass.com/event/262764/)
