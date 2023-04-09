@@ -1,6 +1,6 @@
 # イワケン/岩﨑謙汰/iwaken71
 
-- 技術好き活躍デザイナー / XRエンジニア 
+- XRエンジニア 
 - 東京工業大学大学院、数理・計算科学系卒業 (~2018.3)
 - 株式会社サイバーエージェント入社 (2018.04~現在)
 - 好きな技術領域
@@ -47,13 +47,20 @@
 
 # Book (本の執筆)
 
-- [IwakenLab TechBook #1 XR好きの役立つTips集](https://techbookfest.org/product/8Z7Y8Bdfh5jMtExcMFT1kS?productVariantID=d3Hdh902NFZgzCwSXJWzmn)
-- [Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm?productVariantID=pNeWa5JkuwS6Lj9148Sq9S)
+2023年
 - [Babylon.js レシピ集 インプレスNextPublishing](https://nextpublishing.jp/book/16386.html)
+
+2022年
+- [Babylon.js レシピ集 Vol.1](https://techbookfest.org/product/vrwdHJ77ZrGR2A86A5biQm?productVariantID=pNeWa5JkuwS6Lj9148Sq9S)
+- [IwakenLab TechBook #1 XR好きの役立つTips集](https://techbookfest.org/product/8Z7Y8Bdfh5jMtExcMFT1kS?productVariantID=d3Hdh902NFZgzCwSXJWzmn)
+
+2016年
+- [東工大サイエンステクノの理系脳を育てる工作教室](https://amzn.asia/d/eymaNig)
 
 # Speak/登壇
 
-- [HAL東京・HAL大阪学生向け授業, 2023/01/16](https://twitter.com/iwaken71/status/1614919049565331457?s=20&t=MW-5yF3XEHY1dxNlL9_HkA)
+- 講演
+  - [HAL東京・HAL大阪学生向け授業, 2023/01/16](https://twitter.com/iwaken71/status/1614919049565331457?s=20&t=MW-5yF3XEHY1dxNlL9_HkA)
 - Microsoft Build 2022
   - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
   - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
@@ -75,6 +82,7 @@
 - 技育祭
   - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
 - Other
+  - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
   - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
   - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
   - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
@@ -204,6 +212,9 @@
 - [UnityのWebGLで書きだしたゲームをGitHubを使って公開する](https://qiita.com/iwaken71/items/c32760e1cc2ba01e8f9a)
 
 ## Unreal Engine
+
+2023年
+- [イワケン氏によるLumaのNeRFプラグインチュートリアル記事――写真データからUE5の3Dシーンが生成されて感激！](https://cgworld.jp/flashnews/202304-luma-iwaken.html?fbclid=IwAR34v3dBprXPJnRkhe1VwMuHvbhSDoYp4n4vs9ZTPDK5IoycWL5D1PsguxE)
 
 2022年
 - [Unreal Engine5.0のリリース直後にHololens 2ビルドできるか試してみた](https://zenn.dev/iwaken71/articles/ue5-hololens-first)
