@@ -102,6 +102,7 @@
 
 # Work
 2023年
+- [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
 - [【XR展示】LODGE XR Talk　Meta Quest Proによるみんなでライブ視聴体験](https://lodge-xr-talk-01.peatix.com/view)
 - [西新宿NEUUにAR作品9つ展示開始！](https://twitter.com/iwaken71/status/1620361891196571649?s=20&t=w0JgtjgGcVYuTTDSddXMlw)
 
