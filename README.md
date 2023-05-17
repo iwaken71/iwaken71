@@ -48,6 +48,7 @@
 # Book (本の執筆)
 
 2023年
+- [IwakenLab TechBook #2 XR好きの役立つTips集](https://techbookfest.org/product/fu8fLP1xTHLGpDNAAGSs6u)
 - [Babylon.js レシピ集 インプレスNextPublishing](https://nextpublishing.jp/book/16386.html)
 
 2022年
@@ -133,6 +134,9 @@
 
 # Event/開催
 2023年
+- [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
+- [学生必見！XR就活の軌跡を聞いちゃう座談会](https://iwakenlab.connpass.com/event/279875/)
+- [3Dスキャン未来IIKラジオ 5/12](https://iwakenlab.connpass.com/event/282351/)
 - [NeRF撮り方LT会 (374人参加申し込み)](https://iwakenlab.connpass.com/event/280190/)
 - [Babylon.js 勉強会 vol.2 Babylon.js v6 リリース記念](https://babylonjs.connpass.com/event/276698/)
 - [IwakenLabオールスターLT祭  XR好き40名大集結](https://iwakenlab.connpass.com/event/270558/)
