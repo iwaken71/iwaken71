@@ -82,21 +82,23 @@
   - ABCSpring2017登壇 [めざせスカウター！ HoloLensによる特定個人の 顔認識アプリ制作とその課題](https://www.slideshare.net/IwasakiKenta/abc-spring2017-vol2)
 - 技育祭
   - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
-- Other
+- HoloLensミートアップ
+　- [Tokyo HoloLens ミートアップ vol.33 セクション講演 HoloLensと謎解きの融合: 「TARGET」開発物語 - 企画から一般公開に向けての道のり](https://hololens.connpass.com/event/281748/)   
+　- [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
+　- [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
+  - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
+  - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
+- Other  
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
   - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
   - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
   - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
   - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
-  - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
   - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
   - [Babylon.js勉強会 LT登壇「Babylon.jsで3DViewerを作ってみた！」](https://babylonjs.connpass.com/event/246064/)
   - [福岡XR部 LT登壇](https://fukuoka-xr-club.connpass.com/event/240553/)
   - [JapanXRFest登壇](https://japanxrfest.com/2022/)
   - [Gotanda.unity #19 sponsored by 株式会社ミラティブ LT登壇](https://meetup.unity3d.jp/jp/events/1315)
-  - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
-  - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
-  - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
   - [【withARハッカソン枠】xR Developers Community Conference](https://www.youtube.com/watch?v=9u22BC3r4x8)
   - [#inochi万博フォーラム 登壇](https://twitter.com/_withAR/status/1334483071614107648?s=20&t=DzrdvUcXXtMZ6rtNogWvXA)
   - [xR Tech Tokyo #10 LT登壇　趣味でJINS MEMEアプリ作ったら番組出演した話 & これからのAR開発者の生き方(仮)](https://vrtokyo.connpass.com/event/86277/)
