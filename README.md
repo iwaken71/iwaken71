@@ -83,9 +83,9 @@
 - 技育祭
   - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
 - HoloLensミートアップ
-　- [Tokyo HoloLens ミートアップ vol.33 セクション講演 HoloLensと謎解きの融合: 「TARGET」開発物語 - 企画から一般公開に向けての道のり](https://hololens.connpass.com/event/281748/)   
-　- [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
-　- [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
+  - [Tokyo HoloLens ミートアップ vol.33 セクション講演 HoloLensと謎解きの融合: 「TARGET」開発物語 - 企画から一般公開に向けての道のり](https://hololens.connpass.com/event/281748/)   
+  - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
+  - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
   - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
 - Other  
