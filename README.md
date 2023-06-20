@@ -88,7 +88,8 @@
   - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
   - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
-- Other  
+- Other
+  - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
   - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
   - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
