@@ -33,6 +33,8 @@
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
 
 # Award (5件)
+2023年
+- [Microsoft MVP for Mixed Reality ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
 
 2022年
 - [未来都市withARハッカソン 3位](https://twitter.com/iwaken71/status/1604802894381060096?s=20&t=ZIyNpVEKVtc0D2ShjhDPag)
@@ -62,14 +64,18 @@
 
 - 講演
   - [HAL東京・HAL大阪学生向け授業, 2023/01/16](https://twitter.com/iwaken71/status/1614919049565331457?s=20&t=MW-5yF3XEHY1dxNlL9_HkA)
-- Microsoft Build 2022
-  - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
-  - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
+- Microsoft Build
+  - 2023年
+    - [Microsoft Build 2023 のメタバース関連講演と今後の動向](https://info.microsoft.com/JA-ADAI-CATALOG-FY23-06Jun-28-Microsoft-Build-Japan-Day2-SREVM14500_Catalog-Display-Page.html)   
+  - 2022年
+    - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
+    - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
 - XRKaigi
   - [XRKaigi2022 WebXR Tech Tokyo + Babylon.js 勉強会](https://www.xrkaigi.com/seminars/49)
   - [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
   - [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
 - CA BASE NEXT
+  - 2023年 [競輪ARアプリやHoloLensプレゼンも！xRギルドでのワイワイ事例](https://cadc.cyberagent.co.jp/2023/sessions/community-tech-xr/)
   - 2022年 基調講演 [未来の当たり前をつくる3DCGエンジニア・クリエイター](https://ca-base-next.cyberagent.co.jp/2022/sessions/metaspace/) 
   - 2021年 [バーチャル撮影システムによるMixed Reality表現](https://www.youtube.com/watch?v=hMo4JAANi8w)
 - BitValley/Youth VALLEY
@@ -137,6 +143,7 @@
 
 # Event/開催
 2023年
+- [Babylon.js ゆるほめLT会 vol.2](https://babylonjs.connpass.com/event/285198/)
 - [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
 - [学生必見！XR就活の軌跡を聞いちゃう座談会](https://iwakenlab.connpass.com/event/279875/)
 - [3Dスキャン未来IIKラジオ 5/12](https://iwakenlab.connpass.com/event/282351/)
