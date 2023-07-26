@@ -143,6 +143,8 @@
 
 # Event/開催
 2023年
+- [visionOS Engineer オンラインLT会 vol.1](https://connpass.com/event/291022/)
+- [Shaderってこんな感じ発表会](https://iwakenlab.connpass.com/event/290159/)
 - [Babylon.js ゆるほめLT会 vol.2](https://babylonjs.connpass.com/event/285198/)
 - [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
 - [学生必見！XR就活の軌跡を聞いちゃう座談会](https://iwakenlab.connpass.com/event/279875/)
