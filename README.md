@@ -62,6 +62,8 @@
 
 # Speak/登壇
 
+- LODGE XR Talk
+  - [HoloLens×謎解きコンテンツを商業施設へ。あなたが開発者ならどうする？,LODGE XR Talk Vol.6, 2023/08/11](https://lodge-xr-talk-06.peatix.com/view) 
 - 講演
   - [HAL東京・HAL大阪学生向け授業, 2023/01/16](https://twitter.com/iwaken71/status/1614919049565331457?s=20&t=MW-5yF3XEHY1dxNlL9_HkA)
 - Microsoft Build
@@ -112,6 +114,7 @@
 
 # Work
 2023年
+- [LODGE XR Talk Vol.6 XRコンテンツ展示「野球上達HoloLens」](https://lodge-xr-talk-06.peatix.com/view)
 - [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
 - [【XR展示】LODGE XR Talk　Meta Quest Proによるみんなでライブ視聴体験](https://lodge-xr-talk-01.peatix.com/view)
 - [西新宿NEUUにAR作品9つ展示開始！](https://twitter.com/iwaken71/status/1620361891196571649?s=20&t=w0JgtjgGcVYuTTDSddXMlw)
