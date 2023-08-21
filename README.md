@@ -65,6 +65,7 @@
 - LODGE XR Talk
   - [HoloLens×謎解きコンテンツを商業施設へ。あなたが開発者ならどうする？,LODGE XR Talk Vol.6, 2023/08/11](https://lodge-xr-talk-06.peatix.com/view) 
 - 講演
+  - [「令和5年度東京未来ファクトリー」STEP1開校式・オリエンテーション](https://www.kyoiku.metro.tokyo.lg.jp/school/content/factory/report_r5_step1.html) 
   - [HAL東京・HAL大阪学生向け授業, 2023/01/16](https://twitter.com/iwaken71/status/1614919049565331457?s=20&t=MW-5yF3XEHY1dxNlL9_HkA)
 - Microsoft Build
   - 2023年
