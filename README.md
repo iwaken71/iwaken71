@@ -116,6 +116,7 @@
 
 # Work
 2023年
+- [NoMaps2023 Gino .Baseball](https://no-maps.jp/2023/program/sports16/)
 - [LODGE XR Talk Vol.6 XRコンテンツ展示「野球上達HoloLens」](https://lodge-xr-talk-06.peatix.com/view)
 - [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
 - [【XR展示】LODGE XR Talk　Meta Quest Proによるみんなでライブ視聴体験](https://lodge-xr-talk-01.peatix.com/view)
@@ -148,6 +149,8 @@
 
 # Event/開催
 2023年
+- [Shaderってこんな感じ発表会 #2](https://iwakenlab.connpass.com/event/294234/)
+- [NeRF開発合宿2023](https://note.com/iwaken71/n/na2d646e094df)
 - [公園withARハッカソン](https://withar.connpass.com/event/287404/)
 - [visionOS Engineer オンラインLT会 vol.2](https://visionos-engineer.connpass.com/event/293784/)
 - [UEFN熱さ語る会](https://iwakenlab.connpass.com/event/290736/)
