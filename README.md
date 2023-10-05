@@ -34,6 +34,7 @@
 
 # Award (5件)
 2023年
+- [公園withARハッカソン 日本かくれんぼ協会賞](https://x.com/iwaken71/status/1700801372042731611?s=20)
 - [Microsoft MVP for Mixed Reality ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
 
 2022年
