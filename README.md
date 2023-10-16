@@ -98,6 +98,8 @@
   - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
   - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
+- UEFN
+  - [UEFN .Tokyo](https://uefn-community-tokyo.connpass.com/event/292903/)   
 - Other
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
   - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
@@ -117,6 +119,7 @@
 
 # Work
 2023年
+- [スマートシティフェスタのNUEE様の展示「ミライPARK」](https://smartcityfes2023.metro.tokyo.lg.jp/)
 - [NoMaps2023 Gino .Baseball](https://no-maps.jp/2023/program/sports16/)
 - [LODGE XR Talk Vol.6 XRコンテンツ展示「野球上達HoloLens」](https://lodge-xr-talk-06.peatix.com/view)
 - [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
