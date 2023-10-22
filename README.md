@@ -153,6 +153,7 @@
 
 # Event/開催
 2023年
+- [3D Gaussian Splatting ゆる勉強会 vol.0](https://iwakenlab.connpass.com/event/299654/)
 - [Shaderってこんな感じ発表会 #2](https://iwakenlab.connpass.com/event/294234/)
 - [NeRF開発合宿2023](https://note.com/iwaken71/n/na2d646e094df)
 - [公園withARハッカソン](https://withar.connpass.com/event/287404/)
