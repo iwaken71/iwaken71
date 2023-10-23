@@ -32,14 +32,16 @@
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営 2021年からJOIN
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
 
-# Award (5件)
+# Award (7件)
 2023年
+- [XRクリエイティブアワード2023ノミネート -Gino .Baseball-](https://xrc.or.jp/award2023/#0477)
+- [XRクリエイティブアワード2023ノミネート -TARGET-](https://xrc.or.jp/award2023/#0454)
 - [公園withARハッカソン 日本かくれんぼ協会賞](https://x.com/iwaken71/status/1700801372042731611?s=20)
 - [Microsoft MVP for Mixed Reality ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
 
 2022年
 - [未来都市withARハッカソン 3位](https://twitter.com/iwaken71/status/1604802894381060096?s=20&t=ZIyNpVEKVtc0D2ShjhDPag)
-- [XR Creative Award2022ノミネート Handsup](https://xrc.or.jp/award2022/#030149)
+- [XRクリエイティブアワードノミネート Handsup](https://xrc.or.jp/award2022/#030149)
 
 2021年
 - [Microsoft MVP for Windows Development ( Kenta Iwasaki )](https://mvp.microsoft.com/ja-jp/PublicProfile/5004594)
@@ -93,7 +95,8 @@
 - 技育祭
   - [技育祭2022【秋】登壇 やりたいことを仕事にして会社を楽しもう。会社と個人の両立&バーチャル領域の現場](https://talent.supporterz.jp/geeksai/2022autumn/information/) 
 - HoloLensミートアップ
-  - [Tokyo HoloLens ミートアップ vol.33 セクション講演 HoloLensと謎解きの融合: 「TARGET」開発物語 - 企画から一般公開に向けての道のり](https://hololens.connpass.com/event/281748/)   
+  - [Tokyo HoloLens ミートアップ vol.33 セクション講演 HoloLensと謎解きの融合: 「TARGET」開発物語 - 企画から一般公開に向けての道のり](https://hololens.connpass.com/event/281748/)
+  - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/) 
   - [Tokyo HoloLens ミートアップ vol.30 LT登壇 HoloLens2とMetaQuest2どちらも動くWebXRアプリをBabylon.jsで作る](https://hololens.connpass.com/event/249363/)   
   - [Tokyo HoloLens ミートアップ vol.29](https://hololens.connpass.com/event/233613/)
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
@@ -106,7 +109,6 @@
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
   - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
   - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
-  - [Tokyo HoloLens ミートアップ vol.31 セッション登壇「HoloLensプレゼン×バーチャル撮影の裏側」](https://hololens.connpass.com/event/260935/)
   - [UT-virtual部会60分講演「XRエンジニアとして仕事楽しむ社会人になるための準備」](https://twitter.com/UT_virtual/status/1550707054649585664?s=20&t=jMnr6BfBPSLbpNMHCvmz-w)
   - [コミュニティ運営技や課題の共有！コミュニティ運営勉強会！#8](https://comucal.connpass.com/event/249976/)  
   - [Babylon.js勉強会 LT登壇「Babylon.jsで3DViewerを作ってみた！」](https://babylonjs.connpass.com/event/246064/)
