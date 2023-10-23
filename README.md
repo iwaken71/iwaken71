@@ -161,7 +161,7 @@
 - [公園withARハッカソン](https://withar.connpass.com/event/287404/)
 - [visionOS Engineer オンラインLT会 vol.2](https://visionos-engineer.connpass.com/event/293784/)
 - [UEFN熱さ語る会](https://iwakenlab.connpass.com/event/290736/)
-- [visionOS Engineer オンラインLT会 vol.1](https://connpass.com/event/291022/)
+- [visionOS Engineer オンラインLT会 vol.1](https://visionos-engineer.connpass.com/event/291022/)
 - [Shaderってこんな感じ発表会](https://iwakenlab.connpass.com/event/290159/)
 - [Babylon.js ゆるほめLT会 vol.2](https://babylonjs.connpass.com/event/285198/)
 - [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
