@@ -53,6 +53,8 @@
 # Book (本の執筆)
 
 2023年
+- [今日から始めるNeRF入門](https://techbookfest.org/product/wnbEbvmDp8S7neFbifU0pP)
+- [IwakenLab TechBook #3](https://techbookfest.org/product/qhSj8q5L2QbYKVn3hmkDn7?utm_source=twitter&utm_medium=social&utm_campaign=share)
 - [IwakenLab TechBook #2 XR好きの役立つTips集](https://techbookfest.org/product/fu8fLP1xTHLGpDNAAGSs6u)
 - [Babylon.js レシピ集 インプレスNextPublishing](https://nextpublishing.jp/book/16386.html)
 
