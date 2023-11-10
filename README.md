@@ -104,7 +104,7 @@
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
   - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
 - UEFN
-  - [UEFN .Tokyo](https://uefn-community-tokyo.connpass.com/event/292903/)   
+  - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)   
 - Other
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
   - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
