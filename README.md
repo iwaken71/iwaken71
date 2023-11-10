@@ -124,6 +124,7 @@
 # Work
 2023年
 - [スマートシティフェスタのNUEE様の展示「ミライPARK」](https://smartcityfes2023.metro.tokyo.lg.jp/)
+- [REALITY CAMPにて「野球上達MR」を展示](https://x.com/wappaboy/status/1712653996400549966?s=20)
 - [NoMaps2023 Gino .Baseball](https://no-maps.jp/2023/program/sports16/)
 - [LODGE XR Talk Vol.6 XRコンテンツ展示「野球上達HoloLens」](https://lodge-xr-talk-06.peatix.com/view)
 - [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
