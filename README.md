@@ -106,6 +106,7 @@
 - UEFN
   - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)   
 - Other
+  - [開発者のためのXRハッカソン徹底解説](https://x.com/symmetry_dtc/status/1723296833454350380?s=20) 
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
   - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
