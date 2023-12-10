@@ -104,11 +104,14 @@
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
   - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
 - UEFN
-  - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)   
-- Other
-  - [開発者のためのXRハッカソン徹底解説](https://x.com/symmetry_dtc/status/1723296833454350380?s=20) 
+  - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)
+- 審査員系
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
   - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
+  - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
+  - [Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
+- Other
+  - [開発者のためのXRハッカソン徹底解説](https://x.com/symmetry_dtc/status/1723296833454350380?s=20) 
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
   - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
   - [MS Tech Camp 2周年記念イベント登壇「オンライン時代の技術仲間の増やし方～3つのコミュニティ事例を添えて～」](https://mspjp.connpass.com/event/260855/)
