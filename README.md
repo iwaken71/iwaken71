@@ -109,7 +109,7 @@
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
   - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
   - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
-  - [Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
+  - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
 - Other
   - [開発者のためのXRハッカソン徹底解説](https://x.com/symmetry_dtc/status/1723296833454350380?s=20) 
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
