@@ -127,6 +127,7 @@
 
 # Work
 2023年
+- [明星和楽 野球上達MR展示](https://www.facebook.com/KentaIwasakii71/posts/pfbid08Avi7EMjS1Zo3XtCxoSfAigNxDdUKj6f5HxGGyUHQSVm1kn8p49fjQnfcoYaRGLql)
 - [スマートシティフェスタのNUEE様の展示「ミライPARK」](https://smartcityfes2023.metro.tokyo.lg.jp/)
 - [REALITY CAMPにて「野球上達MR」を展示](https://x.com/wappaboy/status/1712653996400549966?s=20)
 - [NoMaps2023 Gino .Baseball](https://no-maps.jp/2023/program/sports16/)
