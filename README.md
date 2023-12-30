@@ -28,7 +28,7 @@
 # Comunity
 
 - [withAR](https://withar.connpass.com/) 主催・運営 2019年~
-- [IwakenLab.](https://iwakenlab.jp/) 主催・運営 2021年~
+- [Iwaken Lab.](https://iwakenlab.jp/) 主催・運営 2021年~
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営 2021年からJOIN
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
 
@@ -79,9 +79,10 @@
     - [Mixed Reality 開発技術と現場活用の最新動向 - Developing, Deploying MR Applications](https://mybuild.microsoft.com/ja-JP/sessions/813fa94d-5c5b-4607-b2bd-17027fa862af?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
     - [WebXR Tech Talk](https://mybuild.microsoft.com/ja-JP/sessions/b7ee6069-cbcd-4d7b-b0c5-db5ad8dd5839?source=/speakers/d758e652-7257-45a6-8d31-8cc991659014)
 - XRKaigi
-  - [XRKaigi2022 WebXR Tech Tokyo + Babylon.js 勉強会](https://www.xrkaigi.com/seminars/49)
-  - [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
-  - [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
+  - 2023年 [Iwaken Lab.学生のXR活動LT！VR・AR・NeRF・AIキャラクターへの挑戦](https://www.xrkaigi.com/pages/session_detail?session_id=XRKG2023-S-040)   
+  - 2022年 [XRKaigi2022 WebXR Tech Tokyo + Babylon.js 勉強会](https://www.xrkaigi.com/seminars/49)
+  - 2021年 [XRKaigi2021 基調講演パブリックビューイング会場](https://www.youtube.com/watch?v=ettLoQ7VAfg)
+  - 2020年 [【XR Kaigi 2020】コミュニティオーガナイズドセッション withAR](https://www.youtube.com/watch?v=3Dp7KcyZHsg)
 - CA BASE NEXT
   - 2023年 [競輪ARアプリやHoloLensプレゼンも！xRギルドでのワイワイ事例](https://cadc.cyberagent.co.jp/2023/sessions/community-tech-xr/)
   - 2022年 基調講演 [未来の当たり前をつくる3DCGエンジニア・クリエイター](https://ca-base-next.cyberagent.co.jp/2022/sessions/metaspace/) 
@@ -106,11 +107,12 @@
 - UEFN
   - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)
 - 審査員系
+  - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
+  - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
   - [審査員 - 工大祭ビジコン](https://koudaisai-businesscontest.studio.site/)
-  - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
-  - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
 - Other
+  - [XR Kaigi2023 クリエイター・アンカンファレンス MRTKテーマ](https://www.xrkaigi.com/pages/creators_unconference) 
   - [開発者のためのXRハッカソン徹底解説](https://x.com/symmetry_dtc/status/1723296833454350380?s=20) 
   - [AtticLab.とコラボ 学生こそ好きで社会インパクト](https://twitter.com/iwaken71/status/1644312548165165058?s=20)   
   - [初心者必見！XRビジネス＋開発スタートダッシュ講座](https://connpass.com/event/271759/)   
