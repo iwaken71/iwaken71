@@ -164,7 +164,13 @@
 - [Unity Engineer - 【アズマリム】人類みなセンパイ！【MV】](https://www.youtube.com/watch?v=XtlDHnWgGeM)
 
 # Event/開催
+
+2024年
+- [Babylon.js 勉強会 LT会 2024.01.24](https://babylonjs.connpass.com/event/305526/)
+- [AR好き集会 + ゲストトーク:Google 立野圭祐さん](https://iwakenlab.connpass.com/event/307218/)
+
 2023年
+- [Iwaken Lab.2023年振り返りYoutube Live](https://iwakenlab.connpass.com/event/306346/)
 - [みなとみらいAR映えワークショップ with 8th Wall](https://iwakenlab.connpass.com/event/295504/)
 - [3D Gaussian Splatting ゆる勉強会 vol.0](https://iwakenlab.connpass.com/event/299654/)
 - [Shaderってこんな感じ発表会 #2](https://iwakenlab.connpass.com/event/294234/)
