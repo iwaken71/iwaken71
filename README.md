@@ -4,9 +4,9 @@
 - 東京工業大学、情報理工学院、数理・計算科学系修了 (~2018.3)
 - 株式会社サイバーエージェント入社 (2018.04~現在)
 - 好きな技術領域
-  - Unity (7年)
-  - AR (5年)  
-  - Unreal Engine (2年)
+  - Unity (8年)
+  - AR (6年)  
+  - Unreal Engine (3年)
   - VTuber (2年)
   - Virtual Productions (2年)
 - 4つのコミュニティリーダー
@@ -33,6 +33,10 @@
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
 
 # Award (7件)
+
+2024年
+- [TokyoNodeXRハッカソン 参加者投票1位](https://tokyonode.jp/sp/xrhackathon2023)
+
 2023年
 - [XRクリエイティブアワード2023ノミネート -Gino .Baseball-](https://xrc.or.jp/award2023/#0477)
 - [XRクリエイティブアワード2023ノミネート -TARGET-](https://xrc.or.jp/award2023/#0454)
@@ -128,6 +132,9 @@
   - [xR Tech Tokyo #10 LT登壇　趣味でJINS MEMEアプリ作ったら番組出演した話 & これからのAR開発者の生き方(仮)](https://vrtokyo.connpass.com/event/86277/)
 
 # Work
+2024年
+- [Fortniteにくまモン島が公開されて5日。反応まとめ。TYCOONタグ世界3位。メディア掲載/Youtube実況/Xの声](https://note.com/iwaken71/n/nc250ddf696bf)
+
 2023年
 - [明星和楽 野球上達MR展示](https://www.facebook.com/KentaIwasakii71/posts/pfbid08Avi7EMjS1Zo3XtCxoSfAigNxDdUKj6f5HxGGyUHQSVm1kn8p49fjQnfcoYaRGLql)
 - [スマートシティフェスタのNUEE様の展示「ミライPARK」](https://smartcityfes2023.metro.tokyo.lg.jp/)
@@ -166,8 +173,12 @@
 # Event/開催
 
 2024年
+- [Apple Vision Pro渡航記+実機体験会@渋谷](https://lu.ma/eyj804cz)
+- [仕事で行うOSS開発座談会+ゲスト:たるこすさん](https://iwakenlab.connpass.com/event/309222/)
+- [Apple社員に聞くApple Vision Proの話。ゲスト:Masashi Toyotaさん](https://iwakenlab.connpass.com/event/307811/)
 - [Babylon.js 勉強会 LT会 2024.01.24](https://babylonjs.connpass.com/event/305526/)
 - [AR好き集会 + ゲストトーク:Google 立野圭祐さん](https://iwakenlab.connpass.com/event/307218/)
+
 
 2023年
 - [Iwaken Lab.2023年振り返りYoutube Live](https://iwakenlab.connpass.com/event/306346/)
