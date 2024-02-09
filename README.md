@@ -109,6 +109,7 @@
   - [Tokyo HoloLens MeetUp vol.26](https://www.youtube.com/watch?v=HnV0PjxHRR8)
   - [Tokyo HoloLens ミートアップ vol.24 HoloLens日本上陸四周年記念！](https://hololens.connpass.com/event/198999/)
 - UEFN
+  - [UEFN.Tokyo 勉強会 03 Verse Night / ](https://uefn-community-tokyo.connpass.com/event/308762/) 
   - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)
 - 審査員系
   - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
