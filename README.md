@@ -174,6 +174,8 @@
 # Event/開催
 
 2024年
+- [visionOS Engineer オンラインLT会 vol.5](https://visionos-engineer.connpass.com/event/310649/)
+  - [Xによる実況Post](https://x.com/iwaken71/status/1760246424405750147?s=20) 
 - [Apple Vision Pro渡航記+実機体験会@渋谷](https://lu.ma/eyj804cz)
 - [仕事で行うOSS開発座談会+ゲスト:たるこすさん](https://iwakenlab.connpass.com/event/309222/)
 - [Apple社員に聞くApple Vision Proの話。ゲスト:Masashi Toyotaさん](https://iwakenlab.connpass.com/event/307811/)
