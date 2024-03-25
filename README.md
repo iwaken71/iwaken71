@@ -56,6 +56,9 @@
 
 # Book (本の執筆)
 
+2024年
+- [XR好きのための役立つTips集](https://nextpublishing.jp/book/17551.html)
+
 2023年
 - [今日から始めるNeRF入門](https://techbookfest.org/product/wnbEbvmDp8S7neFbifU0pP)
 - [IwakenLab TechBook #3](https://techbookfest.org/product/qhSj8q5L2QbYKVn3hmkDn7?utm_source=twitter&utm_medium=social&utm_campaign=share)
@@ -174,6 +177,7 @@
 # Event/開催
 
 2024年
+- [Iwaken Lab.3周年記念ミートアップ](https://lu.ma/iwakenlab_3rd_anniv)
 - [Iwaken Lab. 大LT祭 XR/NeRF好き50名大集結](https://iwakenlab.connpass.com/event/311946/)
 - [小田急線みやげwithARハッカソン](https://withar.connpass.com/event/309519/)
 - [visionOS Engineer オンラインLT会 vol.5](https://visionos-engineer.connpass.com/event/310649/)
