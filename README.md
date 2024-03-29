@@ -35,6 +35,7 @@
 # Award (7件)
 
 2024年
+- [TokyoNodeXRハッカソン Xplore賞 ARドラム](https://tokyonode.jp/sp/xrhackathon2023)
 - [TokyoNodeXRハッカソン 参加者投票1位](https://tokyonode.jp/sp/xrhackathon2023)
 
 2023年
