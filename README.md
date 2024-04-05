@@ -75,6 +75,12 @@
 
 # Speak/登壇
 
+## 2024年
+
+- [Hills Breakfast「XR界の吉田松陰が令和の松下村塾を作りたい話」](https://hillsbreakfast.roppongihills.com/)
+
+## 2023年以前
+
 - LODGE XR Talk
   - [HoloLens×謎解きコンテンツを商業施設へ。あなたが開発者ならどうする？,LODGE XR Talk Vol.6, 2023/08/11](https://lodge-xr-talk-06.peatix.com/view) 
 - 講演
