@@ -4,8 +4,8 @@
 - 東京工業大学、情報理工学院、数理・計算科学系修了 (~2018.3)
 - 株式会社サイバーエージェント入社 (2018.04~現在)
 - 好きな技術領域
-  - Unity (8年)
-  - AR (6年)  
+  - Unity (9年)
+  - AR (7年)  
   - Unreal Engine (3年)
   - VTuber (2年)
   - Virtual Productions (2年)
@@ -77,7 +77,9 @@
 
 ## 2024年
 
-- [Hills Breakfast「XR界の吉田松陰が令和の松下村塾を作りたい話」](https://hillsbreakfast.roppongihills.com/)
+- [Life is Tech! Leaders16期研修「良いメンターとは」2024年4月14日](https://x.com/iwaken71/status/1779501631996080492)
+- [サイバーエージェント 25卒エンジニア向け新卒研修「会社を楽しもう」2024年4月10日](https://x.com/iwaken71/status/1778019124364665330)
+- [Hills Breakfast「XR界の吉田松陰が令和の松下村塾を作りたい話」」2024年4月4日](https://hillsbreakfast.roppongihills.com/)
 
 ## 2023年以前
 
