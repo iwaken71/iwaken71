@@ -186,6 +186,8 @@
 # Event/開催
 
 2024年
+- [Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~](https://babylonjs.connpass.com/event/315390/)
+- [VFX Graph LT会 with 近況報告会](https://iwakenlab.connpass.com/event/315259/)
 - [Iwaken Lab.3周年記念ミートアップ](https://lu.ma/iwakenlab_3rd_anniv)
 - [Iwaken Lab. 大LT祭 XR/NeRF好き50名大集結](https://iwakenlab.connpass.com/event/311946/)
 - [小田急線みやげwithARハッカソン](https://withar.connpass.com/event/309519/)
