@@ -77,6 +77,7 @@
 
 ## 2024年
 
+- [WWDC24Recap! Apple Vision Pro 最新情報まとめ](https://awenitetokyo.connpass.com/event/317977/)
 - [Life is Tech! Leaders16期研修「良いメンターとは」2024年4月14日](https://x.com/iwaken71/status/1779501631996080492)
 - [サイバーエージェント 25卒エンジニア向け新卒研修「会社を楽しもう」2024年4月10日](https://x.com/iwaken71/status/1778019124364665330)
 - [Hills Breakfast「XR界の吉田松陰が令和の松下村塾を作りたい話」」2024年4月4日](https://hillsbreakfast.roppongihills.com/)
@@ -146,6 +147,7 @@
 
 # Work
 2024年
+- [東京ドームXRハッカソン 公式Community Supporter](https://www.tokyo-dome.co.jp/enxross/overview/)
 - [Fortniteにくまモン島が公開されて5日。反応まとめ。TYCOONタグ世界3位。メディア掲載/Youtube実況/Xの声](https://note.com/iwaken71/n/nc250ddf696bf)
 
 2023年
