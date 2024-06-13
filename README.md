@@ -77,6 +77,7 @@
 
 ## 2024年
 
+- [山口大学のワクワク未来デジタル講座にて授業](https://x.com/iwaken71/status/1801200455277740504)
 - [WWDC24Recap! Apple Vision Pro 最新情報まとめ](https://awenitetokyo.connpass.com/event/317977/)
 - [Life is Tech! Leaders16期研修「良いメンターとは」2024年4月14日](https://x.com/iwaken71/status/1779501631996080492)
 - [サイバーエージェント 25卒エンジニア向け新卒研修「会社を楽しもう」2024年4月10日](https://x.com/iwaken71/status/1778019124364665330)
