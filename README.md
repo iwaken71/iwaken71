@@ -31,10 +31,12 @@
 - [Iwaken Lab.](https://iwakenlab.jp/) 主催・運営 2021年~
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営 2021年からJOIN
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
+- [東京ドーム主催enXrossハッカソン](https://www.tokyo-dome.co.jp/enxross/overview/) コミュニティサポーター 2024年
 
 # Award (7件)
 
 2024年
+- [東京ドーム主催enXrossハッカソン 奨励プレゼンテーション優勝](https://x.com/iwaken71/status/1808736239765631042)
 - [TokyoNodeXRハッカソン Xplore賞 ARドラム](https://tokyonode.jp/sp/xrhackathon2023)
 - [TokyoNodeXRハッカソン 参加者投票1位](https://tokyonode.jp/sp/xrhackathon2023)
 
