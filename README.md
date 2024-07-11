@@ -36,6 +36,7 @@
 # Award (7件)
 
 2024年
+- [Microsoft MVP for Mixed Reality](https://x.com/iwaken71/status/1811091772648607752)
 - [東京ドーム主催enXrossハッカソン 奨励プレゼンテーション優勝](https://x.com/iwaken71/status/1808736239765631042)
 - [TokyoNodeXRハッカソン Xplore賞 ARドラム](https://tokyonode.jp/sp/xrhackathon2023)
 - [TokyoNodeXRハッカソン 参加者投票1位](https://tokyonode.jp/sp/xrhackathon2023)
