@@ -192,6 +192,9 @@
 # Event/開催
 
 2024年
+- [【3Dスキャンで遊ぼう！】3Dスキャン体験からコンテンツ作成をやってみよう！ 7/13](https://gunma-tsukurun.jp/involved/event240713)
+- [技術カンファレンス運営の裏側 ゲスト:ことみんさん 7/6](https://iwakenlab.connpass.com/event/322760/)
+- [visionOS Engineer Meetup vol.6 オンライン会 6/26](https://visionos-engineer.connpass.com/event/315349/)
 - [Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~](https://babylonjs.connpass.com/event/315390/)
 - [VFX Graph LT会 with 近況報告会](https://iwakenlab.connpass.com/event/315259/)
 - [Iwaken Lab.3周年記念ミートアップ](https://lu.ma/iwakenlab_3rd_anniv)
