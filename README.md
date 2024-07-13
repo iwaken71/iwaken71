@@ -4,16 +4,17 @@
 - 東京工業大学、情報理工学院、数理・計算科学系修了 (~2018.3)
 - 株式会社サイバーエージェント入社 (2018.04~現在)
 - 好きな技術領域
-  - Unity (9年)
-  - AR (7年)  
+  - Unity (10年)
+  - AR (8年)  
   - Unreal Engine (3年)
   - VTuber (2年)
   - Virtual Productions (2年)
-- 4つのコミュニティリーダー
+- 5つのコミュニティリーダー
   - withAR
   - Iwaken Lab.
   - HoloLens Meetup
-  - Babylon.js勉強会  
+  - Babylon.js勉強会
+  - visionOS Engineer Meetup
 
 ![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/191398747-7cd1faa0-0d70-4d25-af6c-d2bbeb4e6cf3.png)
 
