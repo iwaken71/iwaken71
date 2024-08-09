@@ -154,6 +154,8 @@
 
 # Work
 2024年
+- [Apple Vision Pro追いととのう 実証プロジェクト](https://note.com/iwaken71/n/n3cfc89b9bfb7)
+- [チームビルディングとコンセプトの確立。奨励ピッチ優勝の裏側に迫る【enXross HACKATHON 参加者インタビューvol.1「Team Hero」】](https://note.com/enxross/n/n461077c9d3ab)
 - [東京ドームXRハッカソン 公式Community Supporter](https://www.tokyo-dome.co.jp/enxross/overview/)
 - [Fortniteにくまモン島が公開されて5日。反応まとめ。TYCOONタグ世界3位。メディア掲載/Youtube実況/Xの声](https://note.com/iwaken71/n/nc250ddf696bf)
 
