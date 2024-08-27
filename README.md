@@ -198,6 +198,7 @@
 # Event/開催
 
 2024年
+- [ゲストトーク！AR三兄弟長男 川田十夢さん「プロトタイプ500」の話 + プロトタイプゆる共有会](https://iwakenlab.connpass.com/event/326979/)
 - [【3Dスキャンで遊ぼう！】3Dスキャン体験からコンテンツ作成をやってみよう！ 7/13](https://gunma-tsukurun.jp/involved/event240713)
 - [技術カンファレンス運営の裏側 ゲスト:ことみんさん 7/6](https://iwakenlab.connpass.com/event/322760/)
 - [visionOS Engineer Meetup vol.6 オンライン会 6/26](https://visionos-engineer.connpass.com/event/315349/)
