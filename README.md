@@ -155,6 +155,8 @@
 
 # Work
 2024年
+- [【体験展示】【Apple Vision Pro追いととのう】【XRトレンドウォッチ&体験会！】LODGE XR Talk Vol.18](https://lodge-xr-talk-18.peatix.com/view)
+- [Microsoft公式ブログに掲載「How a Student Grew as a Community Leader, Inspired by MVP」](https://techcommunity.microsoft.com/t5/microsoft-mvp-communities-blog/how-a-student-grew-as-a-community-leader-inspired-by-mvp/ba-p/4226660)
 - [Apple Vision Pro追いととのう 実証プロジェクト](https://note.com/iwaken71/n/n3cfc89b9bfb7)
 - [チームビルディングとコンセプトの確立。奨励ピッチ優勝の裏側に迫る【enXross HACKATHON 参加者インタビューvol.1「Team Hero」】](https://note.com/enxross/n/n461077c9d3ab)
 - [東京ドームXRハッカソン 公式Community Supporter](https://www.tokyo-dome.co.jp/enxross/overview/)
