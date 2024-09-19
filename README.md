@@ -16,8 +16,6 @@
   - Babylon.js勉強会
   - visionOS Engineer Meetup
 
-![MicrosoftMVP活動](https://user-images.githubusercontent.com/10010842/191398747-7cd1faa0-0d70-4d25-af6c-d2bbeb4e6cf3.png)
-
 # Media
 
 - [Twitter](https://twitter.com/iwaken71)
@@ -83,6 +81,7 @@
 
 ## 2024年
 
+- [VR学会大会 登壇 現実はどこまでスカウターに近づけたのか](https://conference.vrsj.org/ac2024/program/program-flash02.html#OS2C3)
 - [女性エンジニア歓迎！Apple Vision Pro体験会〜メイクしてても体験可！〜 (イベント企画/登壇)](https://wake-career.connpass.com/event/326098/)
 - [山口大学のワクワク未来デジタル講座にて授業](https://x.com/iwaken71/status/1801200455277740504)
 - [WWDC24Recap! Apple Vision Pro 最新情報まとめ](https://awenitetokyo.connpass.com/event/317977/)
@@ -155,6 +154,7 @@
 
 # Work
 2024年
+- [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
 - [【体験展示】【Apple Vision Pro追いととのう】【XRトレンドウォッチ&体験会！】LODGE XR Talk Vol.18](https://lodge-xr-talk-18.peatix.com/view)
 - [Microsoft公式ブログに掲載「How a Student Grew as a Community Leader, Inspired by MVP」](https://techcommunity.microsoft.com/t5/microsoft-mvp-communities-blog/how-a-student-grew-as-a-community-leader-inspired-by-mvp/ba-p/4226660)
 - [Apple Vision Pro追いととのう 実証プロジェクト](https://note.com/iwaken71/n/n3cfc89b9bfb7)
