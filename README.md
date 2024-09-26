@@ -1,6 +1,6 @@
 # イワケン/岩﨑謙汰/iwaken71
 
-- XRエンジニア 
+- XRエンジニア/XRディレクター
 - 東京工業大学、情報理工学院、数理・計算科学系修了 (~2018.3)
 - 株式会社サイバーエージェント入社 (2018.04~現在)
 - 好きな技術領域
@@ -201,6 +201,7 @@
 # Event/開催
 
 2024年
+- [visionOS Engineer Meetup vol.7 オンラインLT会](https://visionos-engineer.connpass.com/event/331326/)
 - [ゲストトーク！AR三兄弟長男 川田十夢さん「プロトタイプ500」の話 + プロトタイプゆる共有会](https://iwakenlab.connpass.com/event/326979/)
 - [【3Dスキャンで遊ぼう！】3Dスキャン体験からコンテンツ作成をやってみよう！ 7/13](https://gunma-tsukurun.jp/involved/event240713)
 - [技術カンファレンス運営の裏側 ゲスト:ことみんさん 7/6](https://iwakenlab.connpass.com/event/322760/)
