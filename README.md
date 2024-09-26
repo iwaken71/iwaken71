@@ -154,6 +154,7 @@
 
 # Work
 2024年
+- [XR好き学生に開発合宿の思い出をプレゼント](https://note.com/iwaken71/n/n11236f8f6fb4)
 - [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
 - [【体験展示】【Apple Vision Pro追いととのう】【XRトレンドウォッチ&体験会！】LODGE XR Talk Vol.18](https://lodge-xr-talk-18.peatix.com/view)
 - [Microsoft公式ブログに掲載「How a Student Grew as a Community Leader, Inspired by MVP」](https://techcommunity.microsoft.com/t5/microsoft-mvp-communities-blog/how-a-student-grew-as-a-community-leader-inspired-by-mvp/ba-p/4226660)
