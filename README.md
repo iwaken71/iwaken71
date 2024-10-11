@@ -156,6 +156,7 @@
 
 # Work
 2024年
+- [TOKYO NODE “XR PARADE” XR系8作品の開発ディレクター](https://www.tokyonode.jp/lab/events/openlab2024_xr_parade/index.html)
 - [XR好き学生に開発合宿の思い出をプレゼント](https://note.com/iwaken71/n/n11236f8f6fb4)
 - [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
 - [【体験展示】【Apple Vision Pro追いととのう】【XRトレンドウォッチ&体験会！】LODGE XR Talk Vol.18](https://lodge-xr-talk-18.peatix.com/view)
