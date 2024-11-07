@@ -84,6 +84,7 @@
 ## 2024年
 
 - [Unity開発者のためのPolySpatial入門：visionOSサウナアプリ開発事例から学ぶ | CADC 2024](https://cadc.cyberagent.co.jp/2024/sessions/xr-polyspatial-visionos/)
+- [さくらじまハウス2024 Apple Vision Proがつくる未来の働き方](https://www.sakurajima-house.tech/#section-4)
 - [VR学会大会 登壇 現実はどこまでスカウターに近づけたのか](https://conference.vrsj.org/ac2024/program/program-flash02.html#OS2C3)
 - [女性エンジニア歓迎！Apple Vision Pro体験会〜メイクしてても体験可！〜 (イベント企画/登壇)](https://wake-career.connpass.com/event/326098/)
 - [山口大学のワクワク未来デジタル講座にて授業](https://x.com/iwaken71/status/1801200455277740504)
