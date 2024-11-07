@@ -27,7 +27,7 @@
 # Comunity
 
 - [withAR](https://withar.connpass.com/) 主催・運営 2019年~
-- [Iwaken Lab.](https://iwakenlab.jp/) 主催・運営 2021年~
+- [Iwaken Lab.](https://www.iwakenlab.jp/) 主催・運営 2021年~
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営 2021年からJOIN
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
 - [visionOS Engineer Meetup](https://visionos-engineer.connpass.com/) 運営 2023年〜
