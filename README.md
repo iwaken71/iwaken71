@@ -33,10 +33,12 @@
 - [Fortniteにくまモン島が公開されて5日。反応まとめ。TYCOONタグ世界3位。メディア掲載/Youtube実況/Xの声](https://note.com/iwaken71/n/nc250ddf696bf)
 - [Engineer HoloLensプレゼン2022](https://note.com/iwaken71/n/n971cacde2d49)
 - [Unity Enineer - HoloLensプレゼン2021](https://youtu.be/hMo4JAANi8w?t=856)
+- [Unity Engineer - 【アズマリム】人類みなセンパイ！【MV】2018](https://www.youtube.com/watch?v=XtlDHnWgGeM)
+
 ## 個人 
 
 - [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
-  -  
+  -  [体験動画](https://youtu.be/ac5dLMsJhaY)
 - [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
 - [JINS MEMEから「Vtuner」が発表されたので、勝手に3年前のバズを懐かしみたいと思う](https://note.com/iwaken71/n/nf75420c307e7)
 
