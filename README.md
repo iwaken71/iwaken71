@@ -1,8 +1,17 @@
 # イワケン/岩﨑謙汰/iwaken71
 
+- 人生のミッション
+  - XR界の吉田松陰として、歴史に残る事例と人を育てる
+- 会社のミッション
+  - XR研究所 2024.04~ 
+    - 「サイバーエージェント全体にXR技術を啓蒙し、新たな事業の種を育てる」     
+
 - XRエンジニア/XRディレクター
-- 東京工業大学、情報理工学院、数理・計算科学系修了 (~2018.3)
 - 株式会社サイバーエージェント入社 (2018.04~現在)
+  - AI事業本部 XR研究所 所長 / XRエンジニア (2024.04~)
+  - 株式会社CyberHuman Productions出向 Unreal Engineエンジニア (2020.06~)
+  - 株式会社CyberV出向 VTuberエンジニア (2018.04~)
+- 東京工業大学、情報理工学院、数理・計算科学系修了 (~2018.3)
 - 好きな技術領域
   - Unity (10年)
   - AR (8年)  
@@ -15,6 +24,21 @@
   - HoloLens Meetup
   - Babylon.js勉強会
   - visionOS Engineer Meetup
+ 
+# 代表作
+
+## 会社 (サイバーエージェント)
+
+- [Apple Vision Pro追いととのう 実証プロジェクト2024](https://note.com/iwaken71/n/n3cfc89b9bfb7)
+- [Fortniteにくまモン島が公開されて5日。反応まとめ。TYCOONタグ世界3位。メディア掲載/Youtube実況/Xの声](https://note.com/iwaken71/n/nc250ddf696bf)
+- [Engineer HoloLensプレゼン2022](https://note.com/iwaken71/n/n971cacde2d49)
+- [Unity Enineer - HoloLensプレゼン2021](https://youtu.be/hMo4JAANi8w?t=856)
+## 個人 
+
+- [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
+  -  
+- [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
+- [JINS MEMEから「Vtuner」が発表されたので、勝手に3年前のバズを懐かしみたいと思う](https://note.com/iwaken71/n/nf75420c307e7)
 
 # Media
 
