@@ -60,11 +60,12 @@
 - [Tokyo Node XRハッカソン](https://tokyonode.jp/sp/xrhackathon2023) ハッカソンサポーター 2023年〜
 - [東京ドーム主催enXrossハッカソン](https://www.tokyo-dome.co.jp/enxross/overview/) コミュニティサポーター 2024年
 
-# Award (7件)
+# Award
 
 2024年
 - [XRクリエイティブアワード2024ノミネート くまモン島「KUMAMON ISLAND -TYCOON-」](https://xrc.or.jp/award2024/#04056)
 - [XRクリエイティブアワード2024ノミネート AR時代のプラレール「コースタートレイン」](https://xrc.or.jp/award2024/#04058)
+- [XRクリエイティブアワード2024ノミネート AR Drums in Tranomon] (https://xrc.or.jp/award2024/#04019)
 - [Microsoft MVP for Mixed Reality](https://x.com/iwaken71/status/1811091772648607752)
 - [東京ドーム主催enXrossハッカソン 奨励プレゼンテーション優勝](https://x.com/iwaken71/status/1808736239765631042)
 - [TokyoNodeXRハッカソン Xplore賞 ARドラム](https://tokyonode.jp/sp/xrhackathon2023)
