@@ -110,6 +110,7 @@
 
 ## 2024年
 
+- [XRKaigi2024 コミュニティセッション Iwaken Lab. - XR好き学生によるLT](https://www.xrkaigi.com/event/9316/module/booth/308916/263768)
 - [ACM SIGGRAPH ASIA 2024 - Birds of a Feather / XR in Enterprise and Society of Japan / Exploring My Unique XR Projects in Japan HoloLens & Apple Vision Pro](https://sites.google.com/view/xr-japan-sa2024-bof)
 - [Unity開発者のためのPolySpatial入門：visionOSサウナアプリ開発事例から学ぶ | CADC 2024](https://cadc.cyberagent.co.jp/2024/sessions/xr-polyspatial-visionos/)
 - [さくらじまハウス2024 Apple Vision Proがつくる未来の働き方](https://www.sakurajima-house.tech/#section-4)
