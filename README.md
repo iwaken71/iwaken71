@@ -91,6 +91,7 @@
 # Book (本の執筆)
 
 2024年
+- [はじめてのNeRF・3DGS　基礎から応用までの実践ガイド](https://nextpublishing.jp/book/18205.html)
 - [XR好きのための役立つTips集](https://nextpublishing.jp/book/17551.html)
 
 2023年
