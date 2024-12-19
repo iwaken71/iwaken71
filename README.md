@@ -242,6 +242,7 @@
 # Event/開催
 
 2024年
+- [ラボメンがやっていること発表会@島根](https://iwakenlab.connpass.com/event/332739/)
 - [visionOS Engineer Meetup vol.7 オンラインLT会](https://visionos-engineer.connpass.com/event/331326/)
 - [ゲストトーク！AR三兄弟長男 川田十夢さん「プロトタイプ500」の話 + プロトタイプゆる共有会](https://iwakenlab.connpass.com/event/326979/)
 - [【3Dスキャンで遊ぼう！】3Dスキャン体験からコンテンツ作成をやってみよう！ 7/13](https://gunma-tsukurun.jp/involved/event240713)
