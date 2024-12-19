@@ -186,6 +186,12 @@
   - [#inochi万博フォーラム 登壇](https://twitter.com/_withAR/status/1334483071614107648?s=20&t=DzrdvUcXXtMZ6rtNogWvXA)
   - [xR Tech Tokyo #10 LT登壇　趣味でJINS MEMEアプリ作ったら番組出演した話 & これからのAR開発者の生き方(仮)](https://vrtokyo.connpass.com/event/86277/)
 
+# メディア掲載
+
+2024年
+- [XR研究所が追求する「社会がスマホの次にシフトする世界」ービジネスの種を育てる秘密基地にー](https://www.cyberagent.co.jp/way/list/detail/id=30965)
+- [カケルプレイノット｜イワケン氏インタビュー　前編](https://note.com/playknotinc/n/n7bb2a0df1a12)
+
 # Work
 2024年
 - [TOKYO NODE “XR PARADE” XR系8作品の開発ディレクター](https://www.tokyonode.jp/lab/events/openlab2024_xr_parade/index.html)
