@@ -111,6 +111,7 @@
 
 ## 2024年
 
+- [日本野球学会第2回大会  ポスター発表「」]()
 - [XRKaigi2024 コミュニティセッション Iwaken Lab. - XR好き学生によるLT](https://www.xrkaigi.com/event/9316/module/booth/308916/263768)
 - [ACM SIGGRAPH ASIA 2024 - Birds of a Feather / XR in Enterprise and Society of Japan / Exploring My Unique XR Projects in Japan HoloLens & Apple Vision Pro](https://sites.google.com/view/xr-japan-sa2024-bof)
 - [Unity開発者のためのPolySpatial入門：visionOSサウナアプリ開発事例から学ぶ | CADC 2024](https://cadc.cyberagent.co.jp/2024/sessions/xr-polyspatial-visionos/)
