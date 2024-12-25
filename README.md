@@ -6,7 +6,7 @@
   - XR研究所 2024.04~ 
     - 「サイバーエージェント全体にXR技術を啓蒙し、新たな事業の種を育てる」     
 
-- XRエンジニア/XRディレクター/コミュニティマネージャー
+- XRエンジニア/XRディレクター/コミュニティリーダー
 - 株式会社サイバーエージェント入社 (2018.04~現在)
   - AI事業本部 XR研究所 所長 / XRエンジニア (2024.04~)
   - 株式会社CyberHuman Productions出向 Unreal Engineエンジニア (2020.06~)
@@ -19,8 +19,8 @@
   - VTuber (2年)
   - Virtual Productions (2年)
 - 5つのコミュニティリーダー
-  - withAR
-  - Iwaken Lab.
+  - [withAR](https://withar.connpass.com/)
+  - [Iwaken Lab.](https://www.iwakenlab.jp/)
   - HoloLens Meetup
   - Babylon.js勉強会
   - visionOS Engineer Meetup
@@ -40,11 +40,12 @@
 - [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
   -  [体験動画](https://youtu.be/ac5dLMsJhaY)
 - [ユニバーサルヒラメキゲーム TARGET 制作協力【2114名体験】](https://www.tumbleweedjp.info/event/target/)
+  - [体験者の声](https://x.com/search?q=%23TumbleTargeT&src=hashtag_click&f=live)
 - [JINS MEMEから「Vtuner」が発表されたので、勝手に3年前のバズを懐かしみたいと思う](https://note.com/iwaken71/n/nf75420c307e7)
 
 # Media
 
-- [Twitter](https://twitter.com/iwaken71)
+- [X(旧Twitter)](https://twitter.com/iwaken71)
 - [Qiita](https://qiita.com/iwaken71)
 - [Zenn](https://zenn.dev/iwaken71)
 - [note](https://note.com/iwaken71)
