@@ -39,7 +39,7 @@
 
 - [NoMaps2024展示 XRで野球上達！〜Vision ProとMeta Quest 3でバーチャルキャッチボール体験会〜](https://no-maps.jp/program/program-channel-geek/base-ball-xr/)
   -  [体験動画](https://youtu.be/ac5dLMsJhaY)
-- [ユニバーサルヒラメキゲーム TARGET 制作協力](https://www.tumbleweedjp.info/event/target/)
+- [ユニバーサルヒラメキゲーム TARGET 制作協力【2114名体験】](https://www.tumbleweedjp.info/event/target/)
 - [JINS MEMEから「Vtuner」が発表されたので、勝手に3年前のバズを懐かしみたいと思う](https://note.com/iwaken71/n/nf75420c307e7)
 
 # Media
