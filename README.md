@@ -112,8 +112,9 @@
 
 ## 2024年
 
-- [日本野球学会第2回大会  ポスター発表「」]()
+- [日本野球学会第2回大会  ポスター発表「」](https://www.facebook.com/KentaIwasakii71/posts/pfbid02wg5EFybH5GQqgwJYEKpx6iXMNqxoV66VD8tKWtNfBZm9QQaWmGmnYp6NNnbuqJusl)
 - [XRKaigi2024 コミュニティセッション Iwaken Lab. - XR好き学生によるLT](https://www.xrkaigi.com/event/9316/module/booth/308916/263768)
+- [Spatial Xperience Night登壇](https://vook.vc/n/7829)
 - [ACM SIGGRAPH ASIA 2024 - Birds of a Feather / XR in Enterprise and Society of Japan / Exploring My Unique XR Projects in Japan HoloLens & Apple Vision Pro](https://sites.google.com/view/xr-japan-sa2024-bof)
 - [Unity開発者のためのPolySpatial入門：visionOSサウナアプリ開発事例から学ぶ | CADC 2024](https://cadc.cyberagent.co.jp/2024/sessions/xr-polyspatial-visionos/)
 - [さくらじまハウス2024 Apple Vision Proがつくる未来の働き方](https://www.sakurajima-house.tech/#section-4)
@@ -244,6 +245,8 @@
 # Event/開催
 
 2024年
+- [Iwaken Lab.2024年振り返りLive](https://www.youtube.com/watch?v=9CQSDNAikDw)
+- [Spatial Xperience Night登壇](https://vook.vc/n/7829)
 - [ラボメンがやっていること発表会@島根](https://iwakenlab.connpass.com/event/332739/)
 - [visionOS Engineer Meetup vol.7 オンラインLT会](https://visionos-engineer.connpass.com/event/331326/)
 - [ゲストトーク！AR三兄弟長男 川田十夢さん「プロトタイプ500」の話 + プロトタイプゆる共有会](https://iwakenlab.connpass.com/event/326979/)
