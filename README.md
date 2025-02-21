@@ -29,6 +29,7 @@
 
 ## 会社 (サイバーエージェント)
 
+- [XR研究所、Jリーグ初となるApple Vision Pro活用の実証プロジェクトを実施](https://www.cyberagent.co.jp/techinfo/news/detail/id=31412)
 - [Apple Vision Pro追いととのう 実証プロジェクト2024](https://note.com/iwaken71/n/n3cfc89b9bfb7)
 - [Fortniteにくまモン島が公開されて5日。反応まとめ。TYCOONタグ世界3位。メディア掲載/Youtube実況/Xの声](https://note.com/iwaken71/n/nc250ddf696bf)
 - [Engineer HoloLensプレゼン2022](https://note.com/iwaken71/n/n971cacde2d49)
@@ -192,6 +193,9 @@
 
 # メディア掲載
 
+2025年
+- [スポーツの感動を次の10年に残す。Apple Vision Proを活用した、サッカーJ１チームFC町田ゼルビアイベントに密着 MoguraVR](https://www.moguravr.com/apple-vision-pro-zelvia-report/)
+
 2024年
 - [XR研究所が追求する「社会がスマホの次にシフトする世界」ービジネスの種を育てる秘密基地にー](https://www.cyberagent.co.jp/way/list/detail/id=30965)
 - [カケルプレイノット｜イワケン氏インタビュー　前編](https://note.com/playknotinc/n/n7bb2a0df1a12)
@@ -199,6 +203,7 @@
 # Work
 
 2025年
+- [XR研究所、Jリーグ初となるApple Vision Pro活用の実証プロジェクトを実施](https://www.cyberagent.co.jp/techinfo/news/detail/id=31412)
 - [ZELVISION XR](https://www.zelvia.co.jp/news/news-285907/)
 
 2024年
