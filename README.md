@@ -112,6 +112,11 @@
 
 # Speak/登壇
 
+## 2025年
+
+- [CP+2025 FC町田ゼルビアのサポーターを熱狂させるためのImmersive Videoコンテンツの撮影と演出](https://www.youtube.com/watch?v=nOB8u4iSbms)
+- [Spatial Xperience Night vol.2登壇](https://jp.pronews.com/news/202502121641574307.html)
+
 ## 2024年
 
 - [日本野球学会第2回大会  ポスター発表「」](https://www.facebook.com/KentaIwasakii71/posts/pfbid02wg5EFybH5GQqgwJYEKpx6iXMNqxoV66VD8tKWtNfBZm9QQaWmGmnYp6NNnbuqJusl)
@@ -195,6 +200,7 @@
 
 2025年
 - [スポーツの感動を次の10年に残す。Apple Vision Proを活用した、サッカーJ１チームFC町田ゼルビアイベントに密着 MoguraVR](https://www.moguravr.com/apple-vision-pro-zelvia-report/)
+- [XR研究所、Jリーグ初となるApple Vision Pro活用の実証プロジェクトを実施](https://www.cyberagent.co.jp/techinfo/news/detail/id=31412)
 
 2024年
 - [XR研究所が追求する「社会がスマホの次にシフトする世界」ービジネスの種を育てる秘密基地にー](https://www.cyberagent.co.jp/way/list/detail/id=30965)
