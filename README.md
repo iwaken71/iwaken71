@@ -199,6 +199,8 @@
 # メディア掲載
 
 2025年
+- [【渡邊 徹・岩崎 謙汰・広瀬 睦】FC町田ゼルビアのサポーターを熱狂させるためのImmersive Videoコンテンツの撮影と演出【EOS VR SYSTEM】Canon CP+2025](https://www.youtube.com/watch?v=nOB8u4iSbms)
+- [「TechTrainメディア」にてサイバーエージェントXR研究所所長・岩﨑謙汰氏のエンジニアメンター特別インタビューを公開](https://prtimes.jp/main/html/rd/p/000000092.000040741.html)
 - [スポーツの感動を次の10年に残す。Apple Vision Proを活用した、サッカーJ１チームFC町田ゼルビアイベントに密着 MoguraVR](https://www.moguravr.com/apple-vision-pro-zelvia-report/)
 - [XR研究所、Jリーグ初となるApple Vision Pro活用の実証プロジェクトを実施](https://www.cyberagent.co.jp/techinfo/news/detail/id=31412)
 
