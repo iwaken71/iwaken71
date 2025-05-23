@@ -211,6 +211,10 @@
 # Work
 
 2025年
+- [Spatial Xperience Night Vol.3を開催しました！](https://note.com/iwaken71/n/n2c4956b279f1)
+- [「XR Showcase by Iwaken Lab.」を大阪・関西万博2025で開催しました！](https://note.com/iwaken71/n/n33b9426d1341)
+- [【5月17日(土)柏戦】「ZELVISION XR #2 」体験チケット販売決定！](https://www.zelvia.co.jp/news/news-298720/)
+- [Cross Point, BBQ + 3Dスキャンコンテスト](https://x.com/iwaken71/status/1919191169512145278)
 - [XR研究所、Jリーグ初となるApple Vision Pro活用の実証プロジェクトを実施](https://www.cyberagent.co.jp/techinfo/news/detail/id=31412)
 - [ZELVISION XR](https://www.zelvia.co.jp/news/news-285907/)
 
@@ -262,6 +266,9 @@
 - [Unity Engineer - 【アズマリム】人類みなセンパイ！【MV】](https://www.youtube.com/watch?v=XtlDHnWgGeM)
 
 # Event/開催
+
+2025年
+- 
 
 2024年
 - [Iwaken Lab.2024年振り返りLive](https://www.youtube.com/watch?v=9CQSDNAikDw)
