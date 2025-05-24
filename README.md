@@ -176,6 +176,7 @@
   - [UEFN.Tokyo 勉強会 03 Verse Night / ](https://uefn-community-tokyo.connpass.com/event/308762/) 
   - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)
 - 審査員系
+  - [中間発表審査員_生成AI×社会課題 Tech Conference【WAKE Career 主催】](https://wake-career.connpass.com/event/353297/) 
   - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
   - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
   - [審査員 ARハッカソン筑波 (2023/08/20)](https://co-en.space/co-event/965/)   
