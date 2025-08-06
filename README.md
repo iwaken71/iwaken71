@@ -114,12 +114,14 @@
 
 ## 2025年
 
+- [高校生未来会議「最新技術との向き合い方 XRの作り手として」](https://x.com/iwaken71/status/1952297291831730676)
+- [山口大学授業](https://x.com/iwaken71/status/1935641291234357594)
 - [CP+2025 FC町田ゼルビアのサポーターを熱狂させるためのImmersive Videoコンテンツの撮影と演出](https://www.youtube.com/watch?v=nOB8u4iSbms)
 - [Spatial Xperience Night vol.2登壇](https://jp.pronews.com/news/202502121641574307.html)
 
 ## 2024年
 
-- [日本野球学会第2回大会  ポスター発表「」](https://www.facebook.com/KentaIwasakii71/posts/pfbid02wg5EFybH5GQqgwJYEKpx6iXMNqxoV66VD8tKWtNfBZm9QQaWmGmnYp6NNnbuqJusl)
+- [日本野球学会第2回大会  ポスター発表](https://www.facebook.com/KentaIwasakii71/posts/pfbid02wg5EFybH5GQqgwJYEKpx6iXMNqxoV66VD8tKWtNfBZm9QQaWmGmnYp6NNnbuqJusl)
 - [XRKaigi2024 コミュニティセッション Iwaken Lab. - XR好き学生によるLT](https://www.xrkaigi.com/event/9316/module/booth/308916/263768)
 - [Spatial Xperience Night登壇](https://vook.vc/n/7829)
 - [ACM SIGGRAPH ASIA 2024 - Birds of a Feather / XR in Enterprise and Society of Japan / Exploring My Unique XR Projects in Japan HoloLens & Apple Vision Pro](https://sites.google.com/view/xr-japan-sa2024-bof)
