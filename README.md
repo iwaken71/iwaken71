@@ -65,6 +65,9 @@
 
 # Award
 
+2025年
+- [CyberAgent Developer Expertsに任命](https://www.cyberagent.co.jp/techinfo/info/detail/id=31305)
+
 2024年
 - [XRクリエイティブアワード2024ノミネート くまモン島「KUMAMON ISLAND -TYCOON-」](https://xrc.or.jp/award2024/#04056)
 - [XRクリエイティブアワード2024ノミネート AR時代のプラレール「コースタートレイン」](https://xrc.or.jp/award2024/#04058)
@@ -114,6 +117,9 @@
 
 ## 2025年
 
+- [Tokyo Node XRハッカソン ピッチ](https://x.com/iwaken71/status/1966525226037985738)
+- [Spatial Xperience Night vol.4](https://x.com/XRLab_CA/status/1965943147483312422)
+- [TokyoNodeXRハッカソン Canon EOS VRワークショップ事例紹介](https://www.facebook.com/KentaIwasakii71/posts/pfbid02HT9UVJuAwL8j6hMJmce1GLoJzCUprnLVQWkrqgeCrPuEznDJYmR6qYVJcEvn3d6Al)
 - [高校生未来会議「最新技術との向き合い方 XRの作り手として」](https://x.com/iwaken71/status/1952297291831730676)
 - [山口大学授業](https://x.com/iwaken71/status/1935641291234357594)
 - [CP+2025 FC町田ゼルビアのサポーターを熱狂させるためのImmersive Videoコンテンツの撮影と演出](https://www.youtube.com/watch?v=nOB8u4iSbms)
@@ -202,6 +208,7 @@
 # メディア掲載
 
 2025年
+- [雑誌『Mac Fan』2025年9月号にZELVISION XRが掲載](https://x.com/MacFan/status/1950106564830122368)
 - [【渡邊 徹・岩崎 謙汰・広瀬 睦】FC町田ゼルビアのサポーターを熱狂させるためのImmersive Videoコンテンツの撮影と演出【EOS VR SYSTEM】Canon CP+2025](https://www.youtube.com/watch?v=nOB8u4iSbms)
 - [「TechTrainメディア」にてサイバーエージェントXR研究所所長・岩﨑謙汰氏のエンジニアメンター特別インタビューを公開](https://prtimes.jp/main/html/rd/p/000000092.000040741.html)
 - [スポーツの感動を次の10年に残す。Apple Vision Proを活用した、サッカーJ１チームFC町田ゼルビアイベントに密着 MoguraVR](https://www.moguravr.com/apple-vision-pro-zelvia-report/)
@@ -214,6 +221,8 @@
 # Work
 
 2025年
+
+- [Iwaken Lab.開発合宿2025 主催](https://note.com/iwaken71/n/n89abd679c5c4)
 - [Spatial Xperience Night Vol.3を開催しました！](https://note.com/iwaken71/n/n2c4956b279f1)
 - [「XR Showcase by Iwaken Lab.」を大阪・関西万博2025で開催しました！](https://note.com/iwaken71/n/n33b9426d1341)
 - [【5月17日(土)柏戦】「ZELVISION XR #2 」体験チケット販売決定！](https://www.zelvia.co.jp/news/news-298720/)
