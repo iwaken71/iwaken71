@@ -66,6 +66,7 @@
 # Award
 
 2025年
+- [XR Kaigi Awards 2025 アクティビティ部門 Iwaken Lab.が受賞](https://note.com/iwakenlab/n/n7ccdc98129b0)
 - [CyberAgent Developer Expertsに任命](https://www.cyberagent.co.jp/techinfo/info/detail/id=31305)
 
 2024年
@@ -117,6 +118,7 @@
 
 ## 2025年
 
+- [XRKaigi 2025 XR好き学生によるLTセッション by Iwaken Lab.](https://note.com/iwakenlab/n/nb4f055887925)
 - [Tokyo Node XRハッカソン ピッチ](https://x.com/iwaken71/status/1966525226037985738)
 - [Spatial Xperience Night vol.4](https://x.com/XRLab_CA/status/1965943147483312422)
 - [TokyoNodeXRハッカソン Canon EOS VRワークショップ事例紹介](https://www.facebook.com/KentaIwasakii71/posts/pfbid02HT9UVJuAwL8j6hMJmce1GLoJzCUprnLVQWkrqgeCrPuEznDJYmR6qYVJcEvn3d6Al)
@@ -208,6 +210,9 @@
 # メディア掲載
 
 2025年
+- [【XR Kaigi Award 2025】今年栄光に輝いた企業・団体が発表！](https://www.moguravr.com/xr-kaigi-award-2025/)
+- [CyberAgent Way 「見たことがない」を乗り越える。エレベーターサイネージが実現したAI営業支援](https://www.cyberagent.co.jp/way/list/detail/id=32633)
+- [TOKYO NODE eX Attendant](https://www.tokyonode.jp/lab/events/20250619_01/index.html)
 - [雑誌『Mac Fan』2025年9月号にZELVISION XRが掲載](https://x.com/MacFan/status/1950106564830122368)
 - [【渡邊 徹・岩崎 謙汰・広瀬 睦】FC町田ゼルビアのサポーターを熱狂させるためのImmersive Videoコンテンツの撮影と演出【EOS VR SYSTEM】Canon CP+2025](https://www.youtube.com/watch?v=nOB8u4iSbms)
 - [「TechTrainメディア」にてサイバーエージェントXR研究所所長・岩﨑謙汰氏のエンジニアメンター特別インタビューを公開](https://prtimes.jp/main/html/rd/p/000000092.000040741.html)
@@ -222,6 +227,12 @@
 
 2025年
 
+- [visionOS TC 2025 運営コアメンバー & スタッフ統括](https://visionos-tc.com/)
+- [ZELVISION XR #4 の体験会](https://www.zelvia.co.jp/news/news-324324/)
+- [XR Kaigi 2025 Iwaken Lab.展示ブースディレクション](https://note.com/iwakenlab/n/n1dac6c8cbf94)
+- [InterBee 2025 Immersiveパビリオン出展 ZELVISION XR](https://www.cyberagent.co.jp/techinfo/news/detail/id=32729)
+- [IVRC2025 ゲスト審査委員](https://ivrc.net/2025/jury/)
+- [TokyoNodeXRハッカソン 決勝進出 XR PARADEにて4日間展示。eX Attendant](https://www.tokyonode.jp/lab/events/openlab2025_xr_parade/index.html)
 - [Iwaken Lab.開発合宿2025 主催](https://note.com/iwaken71/n/n89abd679c5c4)
 - [Spatial Xperience Night Vol.3を開催しました！](https://note.com/iwaken71/n/n2c4956b279f1)
 - [「XR Showcase by Iwaken Lab.」を大阪・関西万博2025で開催しました！](https://note.com/iwaken71/n/n33b9426d1341)
@@ -280,7 +291,6 @@
 # Event/開催
 
 2025年
-- 
 
 2024年
 - [Iwaken Lab.2024年振り返りLive](https://www.youtube.com/watch?v=9CQSDNAikDw)
