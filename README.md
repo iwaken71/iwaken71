@@ -54,7 +54,7 @@
 
 # Comunity
 
-- [withAR](https://withar.connpass.com/) 主催・運営 2019年~
+- [withAR](https://withar.connpass.com/) 主催・運営 2019年~2025
 - [Iwaken Lab.](https://www.iwakenlab.jp/) 主催・運営 2021年~
 - [Tokyo HoloLens MeetUp](https://hololens.connpass.com/) 運営 2021年からJOIN
 - [Babylon.js JAPAN](https://babylonjs.connpass.com/) 主催・運営 2022年~
@@ -227,6 +227,8 @@
 
 2025年
 
+- [Iwaken Lab. 2025年振り返りLive](https://iwakenlab.connpass.com/event/379591/)
+- [結婚式withARハッカソン運営](https://withar.connpass.com/event/373916/)
 - [visionOS TC 2025 運営コアメンバー & スタッフ統括](https://visionos-tc.com/)
 - [ZELVISION XR #4 の体験会](https://www.zelvia.co.jp/news/news-324324/)
 - [XR Kaigi 2025 Iwaken Lab.展示ブースディレクション](https://note.com/iwakenlab/n/n1dac6c8cbf94)
