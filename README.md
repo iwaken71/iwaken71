@@ -225,6 +225,9 @@
 
 # Work
 
+2026年
+- [結婚式]()
+
 2025年
 
 - [Iwaken Lab. 2025年振り返りLive](https://iwakenlab.connpass.com/event/379591/)
