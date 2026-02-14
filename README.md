@@ -18,12 +18,14 @@
   - Unreal Engine (3年)
   - VTuber (2年)
   - Virtual Productions (2年)
-- 5つのコミュニティリーダー
+- コミュニティリーダー
   - [withAR](https://withar.connpass.com/)
   - [Iwaken Lab.](https://www.iwakenlab.jp/)
   - HoloLens Meetup
   - Babylon.js勉強会
   - visionOS Engineer Meetup
+  - Spatial Xperience Night
+  - 3DGS Meeup
  
 # 代表作
 
