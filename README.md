@@ -228,6 +228,9 @@
 # Work
 
 2026年
+- [中庭]()
+- [Iwaken Lab. 大LT祭 2025年度](https://iwakenlab.connpass.com/event/383479/)
+- [3DGS Meetup vol.1 コアメンバー](https://3dgs-meetup.connpass.com/event/378917/)
 - [結婚式]()
 
 2025年
