@@ -188,6 +188,7 @@
   - [UEFN.Tokyo 勉強会 03 Verse Night / ](https://uefn-community-tokyo.connpass.com/event/308762/) 
   - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)
 - 審査員系
+  - [Hack1グランプリ2026の審査員 2026/5/11]()   
   - [中間発表審査員_生成AI×社会課題 Tech Conference【WAKE Career 主催】](https://wake-career.connpass.com/event/353297/) 
   - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
   - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
@@ -228,6 +229,11 @@
 # Work
 
 2026年
+- [3DGS Meetup vol.2 コアメンバー]
+- [BitSummit Game Jam XR部門新設]()
+- [Apple Vision Pro 2か月開発チャレンジ]()
+- [LBE VR開発ワークショップを開催]()
+- [BBQ & AIグラスフォトコンテスト]()
 - [中庭]()
 - [Iwaken Lab. 大LT祭 2025年度](https://iwakenlab.connpass.com/event/383479/)
 - [3DGS Meetup vol.1 コアメンバー](https://3dgs-meetup.connpass.com/event/378917/)
