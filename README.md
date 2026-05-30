@@ -25,7 +25,7 @@
   - Babylon.js勉強会
   - visionOS Engineer Meetup
   - Spatial Xperience Night
-  - 3DGS Meeup
+  - 3DGS Meetup
  
 # 代表作
 
