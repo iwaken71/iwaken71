@@ -240,7 +240,7 @@
 2026年
 - [3DGS Meetup vol.2 コアメンバー]
 - [BitSummit Game Jam XR部門新設]()
-- [Apple Vision Pro 2か月開発チャレンジ]()
+- [Apple Vision Pro 2か月開発チャレンジ](https://note.com/iwaken71/n/n64ecde50caa8)
 - [LBE VR開発ワークショップを開催](https://note.com/iwaken71/n/n057ccfe8acfb)
 - [BBQ & AIグラスフォトコンテスト]()
 - [中庭](https://nakaniwa.peatix.com/view)
