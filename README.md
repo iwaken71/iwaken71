@@ -118,6 +118,13 @@
 
 # Speak/登壇
 
+## 2026年
+
+- [XR開発者集会 春の大LT大会2026 Iwaken Lab.について登壇](https://xr-developer-meeting.connpass.com/event/385619/)
+- [Made in Japan XR Project プロジェクト説明会 登壇](https://luma.com/k7s0f8m2)
+- [明治大学 先端メディアサイエンス特別講義 登壇]()
+- [鹿児島 スマートグラス×コミュニティ登壇]()
+
 ## 2025年
 
 - [XRKaigi 2025 XR好き学生によるLTセッション by Iwaken Lab.](https://note.com/iwakenlab/n/nb4f055887925)
@@ -188,7 +195,9 @@
   - [UEFN.Tokyo 勉強会 03 Verse Night / ](https://uefn-community-tokyo.connpass.com/event/308762/) 
   - [UEFN.Tokyo 勉強会 02](https://uefn-community-tokyo.connpass.com/event/292903/)
 - 審査員系
-  - [Hack1グランプリ2026の審査員 2026/5/11]()   
+  - [Hack1グランプリ2026の審査員 2026/5/11](https://hack-1.com/)
+  - [全国学生対抗SFハッカソン2026の審査員 2026/6/4](https://www.nagoyatv.com/hackathon-electricsheep/)
+  - [めーてれハッカソンの審査員 2026/9/13]()
   - [中間発表審査員_生成AI×社会課題 Tech Conference【WAKE Career 主催】](https://wake-career.connpass.com/event/353297/) 
   - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
   - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
@@ -232,12 +241,20 @@
 - [3DGS Meetup vol.2 コアメンバー]
 - [BitSummit Game Jam XR部門新設]()
 - [Apple Vision Pro 2か月開発チャレンジ]()
-- [LBE VR開発ワークショップを開催]()
+- [LBE VR開発ワークショップを開催](https://note.com/iwaken71/n/n057ccfe8acfb)
 - [BBQ & AIグラスフォトコンテスト]()
-- [中庭]()
+- [中庭](https://nakaniwa.peatix.com/view)
 - [Iwaken Lab. 大LT祭 2025年度](https://iwakenlab.connpass.com/event/383479/)
 - [3DGS Meetup vol.1 コアメンバー](https://3dgs-meetup.connpass.com/event/378917/)
 - [結婚式]()
+- [Iwaken Lab. 5周年記念イベント(LT&交流会) 主催。77名参加](https://develop-5th-anniversary-website.iwakenlab.workers.dev/)
+- [Iwaken Lab. 北海道開発合宿2026 主催]()
+- [3DGS Meetup vol.2 主催。100名規模、YouTube生配信](https://www.youtube.com/watch?v=9hGiLpjgGd8)
+- [LBE VR プロトタイプ体験会 主催。AI駆動開発によるVRコンテンツ制作](https://note.com/iwakenlab/n/nb2ad2f9afe92)
+- [Made in Japan XR Project メンター参加](https://madeinjapanxr.g-smash.co.jp/)
+- [スマートグラスコミュニティ キックオフ]()
+- [鹿児島にてスマートグラス×コミュニティをテーマに登壇]()
+- [Iwaken Lab.×ソニー コラボワークショップ(企画サポート・参加)]()
 
 2025年
 
@@ -473,6 +490,9 @@
 - [【Babylon.js×Azure Storage】LiDARスキャンした3Dオブジェクトを自作Webサイトに表示させるまで一気通貫](https://zenn.dev/iwaken71/articles/babylon-azure)
 
 ## WebXR
+
+2026年
+- [8th Wall OSSセルフホストで画像トラッキング](https://zenn.dev/iwaken71/articles/8thwall-oss-self-host-image-tracking)
 
 2022年
 - [8thWallのLightship VPS for Webを静岡で試してみた](https://zenn.dev/iwaken71/articles/8thwall-lightship-vps-intro)
