@@ -197,7 +197,7 @@
 - 審査員系
   - [Hack1グランプリ2026の審査員 2026/5/11](https://hack-1.com/)
   - [全国学生対抗SFハッカソン2026の審査員 2026/6/4](https://www.nagoyatv.com/hackathon-electricsheep/)
-  - [めーてれハッカソンの審査員 2026/9/13]()
+  - [めーてれハッカソンの審査員 2026/9/13](https://www.nagoyatv.com/hackathon-electricsheep/)
   - [中間発表審査員_生成AI×社会課題 Tech Conference【WAKE Career 主催】](https://wake-career.connpass.com/event/353297/) 
   - [審査員 Virtual influencer Hackathon @DiFun_vol.1](https://lu.ma/difun.hackathon)
   - [審査員 Generative AI × エンタメ｜Incubation Program「荒波~ARANAMI~」23秋](https://lu.ma/aranami_23autumn)
@@ -252,9 +252,9 @@
 - [3DGS Meetup vol.2 主催。100名規模、YouTube生配信](https://www.youtube.com/watch?v=9hGiLpjgGd8)
 - [LBE VR プロトタイプ体験会 主催。AI駆動開発によるVRコンテンツ制作](https://note.com/iwakenlab/n/nb2ad2f9afe92)
 - [Made in Japan XR Project メンター参加](https://madeinjapanxr.g-smash.co.jp/)
-- [スマートグラスコミュニティ キックオフ]()
+- [#SmartGlassesCreativeLab CONNECT #0 主催。スマートグラスコミュニティ キックオフ(8/2)](https://x.com/iwaken71/status/2083936452182982816?s=20)
 - [鹿児島にてスマートグラス×コミュニティをテーマに登壇]()
-- [Iwaken Lab.×ソニー コラボワークショップ(企画サポート・参加)]()
+- [Iwaken Lab.×ソニー コラボワークショップ(企画サポート・参加)](https://note.com/iwakenlab/n/nf2e575af0dcd)
 
 2025年
 
